@@ -1,0 +1,11 @@
+{
+  "name": "voluntarios_digitais_lacrei---api",
+  "version": "1.0.0",
+  "description": "Projeto Voluntarios Digitais para a Lacrei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo 2",
+  "license": "ISC"
+}

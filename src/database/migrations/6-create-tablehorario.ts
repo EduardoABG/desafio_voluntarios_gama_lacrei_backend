@@ -53,7 +53,3 @@ export default {
     return queryInterface.dropTable("horario");
   },
 };
-
-//
-
-

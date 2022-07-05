@@ -1,7 +1,7 @@
 import { Sequelize, Options } from "sequelize";
 
 export default class Conection {
-  private instance: Sequelize | undefined;
+  private instance: Sequelize;
   private db_name: string;
   private db_user: string;
   private db_pass: string;
@@ -32,5 +32,14 @@ export default class Conection {
   }
   getInstance() {
     return this.instance;
+  }
+
+  async hasConection() {
+    try {
+      await this.instance.authenticate();
+      console.log("Banco dados conectado!");
+    } catch (error) {
+      console.error("Erro ao tentar se conectar ao banco de dados1");
+    }
   }
 }

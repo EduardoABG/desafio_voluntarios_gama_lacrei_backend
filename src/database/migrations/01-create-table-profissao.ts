@@ -6,7 +6,7 @@ export default {
         type: DataTypes.STRING(10),
         primaryKey: true,
       },
-      name: {
+      profissao: {
         type: DataTypes.STRING(20),
       },
       createdAt: {

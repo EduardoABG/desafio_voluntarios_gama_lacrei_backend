@@ -30,15 +30,6 @@ export default {
           key: "prefixo",
         },
       },
-      profissao: {
-        type: DataTypes.STRING(30),
-        references: {
-          model: {
-            tableName: "profissao",
-          },
-          key: "profissao",
-        },
-      },
       num_registro: {
         type: DataTypes.INTEGER(),
       },

@@ -1,5 +1,7 @@
-import { profissionalRepository } from "../../../repositories";
+import { profissionalRepositoryPrecadastro } from "../../../repositories";
 import PreCadastroUseCase from "./PreCadastroUseCase";
 
-const preCadastroUseCase = new PreCadastroUseCase(profissionalRepository);
+const preCadastroUseCase = new PreCadastroUseCase(
+  profissionalRepositoryPrecadastro
+);
 export { preCadastroUseCase };

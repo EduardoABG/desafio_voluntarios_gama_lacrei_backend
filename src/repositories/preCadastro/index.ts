@@ -7,10 +7,6 @@ export default class PreCadastroRepository implements IRepository {
   constructor(preCadastroModel: Profissional) {
     this.preCadastroModel = preCadastroModel.instance;
   }
-  findById(id: any, payload?: any): Promise<any> {
-    throw new Error("Method not implemented.");
-  }
-
   async create(payload: {
     estado_atuacao: string;
     nome_completo: string;
@@ -22,7 +18,8 @@ export default class PreCadastroRepository implements IRepository {
   }) {
     return this.preCadastroModel.create(payload);
   }
-  async update() {}
-  async findAll() {}
-  async delete() {}
+  async update(payload: any, id: any) {}
+  async findAll(payload?: any) {}
+  async findById(id: any, payload?: any) {}
+  async delete(id: any) {}
 }

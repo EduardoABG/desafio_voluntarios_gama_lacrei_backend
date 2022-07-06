@@ -8,10 +8,6 @@ type PayloadPreCadastroProfissional = {
   senha: string;
   termos: boolean;
 };
-type PayloadPreCadastroProfissao = {
-  prefixo_profissao: string;
-  num_registro: number;
-};
 
 export default class PreCadastroUseCase {
   private repository: IRepository;
@@ -29,14 +25,6 @@ export default class PreCadastroUseCase {
       num_registro: payload.num_registro,
       senha: payload.senha,
       termos: payload.termos,
-    };
-    const novoProfissional = this.repository.create(profissionalData);
-    return novoProfissional;
-  }
-  cadastrarProfissao(payload: PayloadPreCadastroProfissao) {
-    const profissionalData = {
-      prefixo_profissao: payload.prefixo_profissao,
-      num_registro: payload.num_registro,
     };
     const novoProfissional = this.repository.create(profissionalData);
     return novoProfissional;

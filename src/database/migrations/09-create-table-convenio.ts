@@ -1,13 +1,14 @@
-import { QueryInterface, DataTypes } from "sequelize";
+import { DataTypes, QueryInterface } from "sequelize";
 export default {
   up: (queryInterface: QueryInterface) => {
-    return queryInterface.createTable("profissao", {
-      prefixo: {
-        type: DataTypes.STRING(10),
+    return queryInterface.createTable("convenio", {
+      id: {
+        type: DataTypes.INTEGER,
         primaryKey: true,
+        autoIncrement: true,
       },
-      name: {
-        type: DataTypes.STRING(20),
+      nome: {
+        type: DataTypes.STRING(100),
       },
       createdAt: {
         type: DataTypes.DATE(),
@@ -18,6 +19,6 @@ export default {
     });
   },
   down: (queryInterface: QueryInterface) => {
-    return queryInterface.dropTable("profissao");
+    return queryInterface.dropTable("convenio");
   },
 };

@@ -24,7 +24,6 @@ export default {
         references: {
           model: {
             tableName: "profissional",
-            schema: "schema",
           },
           key: "id",
         },

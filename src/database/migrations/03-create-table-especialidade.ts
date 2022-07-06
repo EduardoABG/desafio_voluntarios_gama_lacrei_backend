@@ -1,4 +1,4 @@
-import { DataTypes, QueryInterface } from "sequelize";
+import { DataTypes, QueryInterface, Sequelize } from "sequelize";
 export default {
   up: (queryInterface: QueryInterface) => {
     return queryInterface.createTable("especialidade", {
@@ -11,11 +11,10 @@ export default {
         type: DataTypes.STRING(255),
       },
       profissao_id: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.STRING,
         references: {
           model: {
             tableName: "profissao",
-            schema: "schema",
           },
           key: "prefixo",
         },

@@ -19,7 +19,7 @@ export class Especialidade {
         especialidade: {
           type: DataTypes.STRING,
         },
-        profissao_id: {
+        prefixo_profissao: {
           type: DataTypes.STRING,
           references: {
             model: {

@@ -1,0 +1,2045 @@
+code;name
+A00;C«¸lera
+A01;Febres Tif«¸ide e Paratif«¸ide
+A02;Outras Infec«ı«Êes Por Salmonella
+A03;Shiguelose
+A04;Outras Infec«ı«Êes Intestinais Bacterianas
+A05;Outras Intoxica«ı«Êes Alimentares Bacterianas, N«úo Classificadas em Outra Parte
+A06;Ameb«ase
+A07;Outras Doen«ıas Intestinais Por Protozo«≠rios
+A08;Infec«ı«Êes Intestinais Virais, Outras e as N«úo Especificadas
+A09;Diarr«∏ia e Gastroenterite de Origem Infecciosa Presum«vel
+A15;Tuberculose Respirat«¸ria, Com Confirma«ı«úo Bacteriol«¸gica e Histol«¸gica
+A16;Tuberculose Das Vias Respirat«¸rias, Sem Confirma«ı«úo Bacteriol«¸gica ou Histol«¸gica
+A17;Tuberculose do Sistema Nervoso
+A18;Tuberculose de Outros «?rg«úos
+A19;Tuberculose Miliar
+A20;Peste
+A21;Tularemia
+A22;Carb«ßnculo
+A23;Brucelose
+A24;Mormo e Melioidose
+A25;Febres Transmitidas Por Mordedura de Rato
+A26;Erisipel«¸ide
+A27;Leptospirose
+A28;Outras Doen«ıas Bacterianas Zoon«¸ticas N«úo Classificadas em Outra Parte
+A30;Hansen«ase (doen«ıa de Hansen) (lepra)
+A31;Infec«ı«Êes Devidas a Outras Micobact«∏rias
+A32;Listeriose (lister«ase)
+A33;T«∏tano do Rec«∏m-nascido (neonatal)
+A34;T«∏tano Obst«∏trico
+A35;Outros Tipos de T«∏tano
+A36;Difteria
+A37;Coqueluche
+A38;Escarlatina
+A39;Infec«ı«úo Meningog«¸cica
+A40;Septicemia Estreptoc«¸cica
+A41;Outras Septicemias
+A42;Actinomicose
+A43;Nocardiose
+A44;Bartonelose
+A46;Erisipela
+A48;Outras Doen«ıas Bacterianas N«úo Classificadas em Outra Parte
+A49;Infec«ı«úo Bacteriana de Localiza«ı«úo N«úo Especificada
+A50;S«filis Cong«¶nita
+A51;S«filis Precoce
+A52;S«filis Tardia
+A53;Outras Formas e as N«úo Especificadas da S«filis
+A54;Infec«ı«úo Gonoc«¸cica
+A55;Linfogranuloma (ven«∏reo) Por Clam«dia
+A56;Outras Infec«ı«Êes Causadas Por Clam«dias Transmitidas Por Via Sexual
+A57;Cancro Mole
+A58;Granuloma Inguinal
+A59;Tricomon«ase
+A60;Infec«ı«Êes Anogenitais Pelo V«rus do Herpes (herpes Simples)
+A63;Outras Doen«ıas de Transmiss«úo Predominantemente Sexual, N«úo Classificadas em Outra Parte
+A64;Doen«ıas Sexualmente Transmitidas, N«úo Especificadas
+A65;S«filis N«úo-ven«∏rea
+A66;Bouba
+A67;Pinta (carate)
+A68;Febres Recorrentes (Borrelioses)
+A69;Outras Infec«ı«Êes Por Espiroquetas
+A70;Infec«ı«Êes Causadas Por Clam«dia Psittaci
+A71;Tracoma
+A74;Outras Doen«ıas Causadas Por Clam«dias
+A75;Tifo Exantem«≠tico
+A77;Febre Maculosa (rickettsioses Transmitidas Por Carrapatos)
+A78;Febre Q
+A79;Outras Rickettsioses
+A80;Poliomielite Aguda
+A81;Infec«ı«Êes Por V«rus At«picos do Sistema Nervoso Central
+A82;Raiva
+A83;Encefalite Por V«rus Transmitidos Por Mosquitos
+A84;Encefalite Por V«rus Transmitido Por Carrapatos
+A85;Outras Encefalites Virais, N«úo Classificadas em Outra Parte
+A86;Encefalite Viral, N«úo Especificada
+A87;Meningite Viral
+A88;Outras Infec«ı«Êes Virais do Sistema Nervoso Central N«úo Classificadas em Outra Parte
+A89;Infec«ı«Êes Virais N«úo Especificadas do Sistema Nervoso Central
+A90;Dengue (dengue Cl«≠ssico)
+A91;Febre Hemorr«≠gica Devida ao V«rus do Dengue
+A92;Outras Febres Virais Transmitidas Por Mosquitos
+A93;Outras Febres Por V«rus Transmitidas Por Artr«¸podes N«úo Classificadas em Outra Parte
+A94;Febre Viral Transmitida Por Artr«¸podes, N«úo Especificada
+A95;Febre Amarela
+A96;Febre Hemorr«≠gica Por Arenav«rus
+A98;Outras Febres Hemorr«≠gicas Por V«rus, N«úo Classificadas em Outra Parte
+A99;Febres Hemorr«≠gicas Virais N«úo Especificadas
+B00;Infec«ı«Êes Pelo V«rus do Herpes (herpes Simples)
+B01;Varicela (Catapora)
+B02;Herpes Zoster (Zona)
+B03;Var«ola
+B04;Var«ola Dos Macacos (Monkeypox)
+B05;Sarampo
+B06;Rub«∏ola
+B07;Verrugas de Origem Viral
+B08;Outras Infec«ı«Êes Virais Caracterizadas Por Les«Êes da Pele e Das Membranas Mucosas, N«úo Classificadas em Outra Parte
+B09;Infec«ı«úo Viral N«úo Especificada Caracterizada Por Les«Êes da Pele e Membranas Mucosas
+B15;Hepatite Aguda A
+B16;Hepatite Aguda B
+B17;Outras Hepatites Virais Agudas
+B18;Hepatite Viral Cr«Ônica
+B19;Hepatite Viral N«úo Especificada
+B20;Doen«ıa Pelo V«rus da Imunodefici«¶ncia Humana (HIV), Resultando em Doen«ıas Infecciosas e Parasit«≠rias
+B21;Doen«ıa Pelo V«rus da Imunodefici«¶ncia Humana (HIV), Resultando em Neoplasias Malignas
+B22;Doen«ıa Pelo V«rus da Imunodefici«¶ncia Humana (HIV) Resultando em Outras Doen«ıas Especificadas
+B23;Doen«ıa Pelo V«rus da Imunodefici«¶ncia Humana (HIV) Resultando em Outras Doen«ıas
+B24;Doen«ıa Pelo V«rus da Imunodefici«¶ncia Humana (HIV) N«úo Especificada
+B25;Doen«ıa Por Citomegalov«rus
+B26;Caxumba (Parotidite Epid«¶mica)
+B27;Mononucleose Infecciosa
+B30;Conjuntivite Viral
+B33;Outras Doen«ıas Por V«rus N«úo Classificada em Outra Parte
+B34;Doen«ıas Por V«rus, de Localiza«ı«úo N«úo Especificada
+B35;Dermatofitose
+B36;Outras Micoses Superficiais
+B37;Candid«ase
+B38;Coccidioidomicose
+B39;Histoplasmose
+B40;Blastomicose
+B41;Paracoccidioidomicose
+B42;Esporotricose
+B43;Cromomicose e Abscesso Feomic«¸tico
+B44;Aspergilose
+B45;Criptococose
+B46;Zigomicose
+B47;Micetoma
+B48;Outras Micoses, N«úo Classificadas em Outra Parte
+B49;Micose N«úo Especificada
+B50;Mal«≠ria Por Plasmodium Falciparum
+B51;Mal«≠ria Por Plasmodium Vivax
+B52;Mal«≠ria Por Plasmodium Malariae
+B53;Outras Formas de Mal«≠ria Confirmadas Por Exames Parasitol«¸gicos
+B54;Mal«≠ria N«úo Especificada
+B55;Leishmaniose
+B56;Tripanossom«ase Africana
+B57;Doen«ıa de Chagas
+B58;Toxoplasmose
+B59;Pneumocistose
+B60;Outras Doen«ıas Devidas a Protozo«≠rios, N«úo Classificadas em Outra Parte
+B64;Doen«ıa N«úo Especificada Devida a Protozo«≠rios
+B65;Esquistossomose (bilharziose) (Schistosom«ase)
+B66;Outras Infesta«ı«Êes Por Tremat«¸deos
+B67;Equinococose
+B68;Infesta«ı«úo Por Taenia
+B69;Cisticercose
+B70;Difilobotr«ase e Esparganose
+B71;Outras Infesta«ı«Êes Por Cest«¸ides
+B72;Dracont«ase
+B73;Oncocercose
+B74;Filariose
+B75;Triquinose
+B76;Ancilostom«ase
+B77;Ascarid«ase
+B78;Estrongiloid«ase
+B79;Tricur«ase
+B80;Oxiur«ase
+B81;Outras Helmint«ases Intestinais, N«úo Classificadas em Outra Parte
+B82;Parasitose Intestinal N«úo Especificada
+B83;Outras Helmint«ases
+B85;Pediculose e Ftir«ase
+B86;Escabiose (sarna)
+B87;Mi«ase
+B88;Outras Infesta«ı«Êes
+B89;Doen«ıa Parasit«≠ria N«úo Especificada
+B90;Seq«¨elas de Tuberculose
+B91;Seq«¨elas de Poliomielite
+B92;Seq«¨elas de Hansen«ase (lepra)
+B94;Seq«¨elas de Outras Doen«ıas Infecciosas e Parasit«≠rias e Das N«úo Especificadas
+B95;Estreptococos e Estafilococos Como Causa de Doen«ıas Classificadas em Outros Cap«tulos
+B96;Outros Agentes Bacterianos, Como Causa de Doen«ıas Classificadas em Outros Cap«tulos
+B97;V«rus Como Causa de Doen«ıas Classificadas em Outros Cap«tulos
+B99;Doen«ıas Infecciosas, Outras e as N«úo Especificadas
+C00;Neoplasia Maligna do L«≠bio
+C01;Neoplasia Maligna da Base da L«ngua
+C02;Neoplasia Maligna de Outras Partes e de Partes N«úo Especificadas da L«ngua
+C03;Neoplasia Maligna da Gengiva
+C04;Neoplasia Maligna do Assoalho da Boca
+C05;Neoplasia Maligna do Palato
+C06;Neoplasia Maligna de Outras Partes e de Partes N«úo Especificadas da Boca
+C07;Neoplasia Maligna da Gl«Ωndula Par«¸tida
+C08;Neoplasia Maligna de Outras Gl«Ωndulas Salivares Maiores e as N«úo Especificadas
+C09;Neoplasia Maligna da Am«gdala
+C10;Neoplasia Maligna da Orofaringe
+C11;Neoplasia Maligna da Nasofaringe
+C12;Neoplasia Maligna do Seio Piriforme
+C13;Neoplasia Maligna da Hipofaringe
+C14;Neoplasia Maligna de Outras Localiza«ı«Êes e de Localiza«ı«Êes Mal Definida, do L«≠bio, Cavidade Oral e Faringe
+C15;Neoplasia Maligna do Es«Ôfago
+C16;Neoplasia Maligna do Est«Ômago
+C17;Neoplasia Maligna do Intestino Delgado
+C18;Neoplasia Maligna do C«¸lon
+C19;Neoplasia Maligna da Jun«ı«úo Retossigm«¸ide
+C20;Neoplasia Maligna do Reto
+C21;Neoplasia Maligna do «?nus e do Canal Anal
+C22;Neoplasia Maligna do F«gado e Das Vias Biliares Intra-hep«≠ticas
+C23;Neoplasia Maligna da Ves«cula Biliar
+C24;Neoplasia Maligna de Outras Partes, e de Partes N«úo Especificadas Das Vias Biliares
+C25;Neoplasia Maligna do P«Ωncreas
+C26;Neoplasia Maligna de Outros «?rg«úos Digestivos e de Localiza«ı«Êes Mal Definidas no Aparelho Digestivo
+C30;Neoplasia Maligna da Cavidade Nasal e do Ouvido M«∏dio
+C31;Neoplasia Maligna Dos Seios da Face
+C32;Neoplasia Maligna da Laringe
+C33;Neoplasia Maligna da Traqu«∏ia
+C34;Neoplasia Maligna Dos Br«Ônquios e Dos Pulm«Êes
+C37;Neoplasia Maligna do Timo
+C38;Neoplasia Maligna do Cora«ı«úo, Mediastino e Pleura
+C39;Neoplasia Maligna de Outras Localiza«ı«Êes e de Localiza«ı«Êes Mal Definidas do Aparelho Respirat«¸rio e Dos «?rg«úos Intrator«≠cicos
+C40;Neoplasia Maligna Dos Ossos e Cartilagens Articulares Dos Membros
+C41;Neoplasia Maligna Dos Ossos e Das Cartilagens Articulares de Outras Localiza«ı«Êes e de Localiza«ı«Êes N«úo Especificadas
+C43;Melanoma Maligno da Pele
+C44;Outras Neoplasias Malignas da Pele
+C45;Mesotelioma
+C46;Sarcoma de Kaposi
+C47;Neoplasia Maligna Dos Nervos Perif«∏ricos e do Sistema Nervoso Aut«Ônomo
+C48;Neoplasia Maligna Dos Tecidos Moles do Retroperit«Ônio e do Perit«Ônio
+C49;Neoplasia Maligna do Tecido Conjuntivo e de Outros Tecidos Moles
+C50;Neoplasia Maligna da Mama
+C51;Neoplasia Maligna da Vulva
+C52;Neoplasia Maligna da Vagina
+C53;Neoplasia Maligna do Colo do «?tero
+C54;Neoplasia Maligna do Corpo do «?tero
+C55;Neoplasia Maligna do «?tero, Por«ı«úo N«úo Especificada
+C56;Neoplasia Maligna do Ov«≠rio
+C57;Neoplasia Maligna de Outros «?rg«úos Genitais Femininos e Dos N«úo Especificados
+C58;Neoplasia Maligna da Placenta
+C60;Neoplasia Maligna do P«¶nis
+C61;Neoplasia Maligna da Pr«¸stata
+C62;Neoplasia Maligna Dos Test«culos
+C63;Neoplasia Maligna de Outros «?rg«úos Genitais Masculinos e Dos N«úo Especificados
+C64;Neoplasia Maligna do Rim, Exceto Pelve Renal
+C65;Neoplasia Maligna da Pelve Renal
+C66;Neoplasia Maligna Dos Ureteres
+C67;Neoplasia Maligna da Bexiga
+C68;Neoplasia Maligna de Outros «?rg«úos Urin«≠rios e Dos N«úo Especificados
+C69;Neoplasia Maligna do Olho e Anexos
+C70;Neoplasia Maligna Das Meninges
+C71;Neoplasia Maligna do Enc«∏falo
+C72;Neoplasia Maligna da Medula Espinhal, Dos Nervos Cranianos e de Outras Partes do Sistema Nervoso Central
+C73;Neoplasia Maligna da Gl«Ωndula Tire«¸ide
+C74;Neoplasia Maligna da Gl«Ωndula Supra-renal (Gl«Ωndula Adrenal)
+C75;Neoplasia Maligna de Outras Gl«Ωndulas End«¸crinas e de Estruturas Relacionadas
+C76;Neoplasia Maligna de Outras Localiza«ı«Êes e de Localiza«ı«Êes Mal Definidas
+C77;Neoplasia Maligna Secund«≠ria e N«úo Especificada Dos G«Ωnglios Linf«≠ticos
+C78;Neoplasia Maligna Secund«≠ria Dos «?rg«úos Respirat«¸rios e Digestivos
+C79;Neoplasia Maligna Secund«≠ria de Outras Localiza«ı«Êes
+C80;Neoplasia Maligna, Sem Especifica«ı«úo de Localiza«ı«úo
+C81;Doen«ıa de Hodgkin
+C82;Linfoma N«úo-Hodgkin, Folicular (nodular)
+C83;Linfoma N«úo-Hodgkin Difuso
+C84;Linfomas de C«∏lulas T Cut«Ωneas e Perif«∏ricas
+C85;Linfoma N«úo-Hodgkin de Outros Tipos e de Tipo N«úo Especificado
+C88;Doen«ıas Imunoproliferativas Malignas
+C90;Mieloma M«ßltiplo e Neoplasias Malignas de Plasm«¸citos
+C91;Leucemia Linf«¸ide
+C92;Leucemia Miel«¸ide
+C93;Leucemia Monoc«tica
+C94;Outras Leucemias de C«∏lulas de Tipo Especificado
+C95;Leucemia de Tipo Celular N«úo Especificado
+C96;Outras Neoplasias Malignas e as N«úo Especificadas Dos Tecidos Linf«≠tico, Hematopo«∏tico e Tecidos Correlatos
+C97;Neoplasias Malignas de Localiza«ı«Êes M«ßltiplas Independentes (prim«≠rias)
+D00;Carcinoma in Situ da Cavidade Oral, do Es«Ôfago e do Est«Ômago
+D01;Carcinoma in Situ de Outros «?rg«úos Digestivos
+D02;Carcinoma in Situ do Ouvido M«∏dio e do Aparelho Respirat«¸rio
+D03;Melanoma in Situ
+D04;Carcinoma in Situ da Pele
+D05;Carcinoma in Situ da Mama
+D06;Carcinoma in Situ do Colo do «?tero (c«∏rvix)
+D07;Carcinoma in Situ de Outros «?rg«úos Genitais e Dos N«úo Especificados
+D09;Carcinoma in Situ de Outras Localiza«ı«Êes e Das N«úo Especificadas
+D10;Neoplasia Benigna da Boca e da Faringe
+D11;Neoplasia Benigna de Gl«Ωndulas Salivares Maiores
+D12;Neoplasia Benigna do C«¸lon, Reto, Canal Anal e «?nus
+D13;Neoplasia Benigna de Outras Partes e de Partes Mal Definidas do Aparelho Digestivo
+D14;Neoplasia Benigna do Ouvido M«∏dio e do Aparelho Respirat«¸rio
+D15;Neoplasia Benigna de Outros «?rg«úos Intrator«≠cicos e Dos N«úo Especificados
+D16;Neoplasia Benigna de Osso e de Cartilagem Articular
+D17;Neoplasia Lipomatosa Benigna
+D18;Hemangioma e Linfangioma de Qualquer Localiza«ı«úo
+D19;Neoplasia Benigna de Tecido Mesotelial
+D20;Neoplasia Benigna de Tecido Mole do Retroperit«Ônio e do Perit«Ônio
+D21;Outras Neoplasias Benignas do Tecido Conjuntivo e de Outros Tecidos Moles
+D22;Nevos Melanoc«ticos
+D23;Outras Neoplasias Benignas da Pele
+D24;Neoplasia Benigna da Mama
+D25;Leiomioma do «?tero
+D26;Outras Neoplasias Benignas do «?tero
+D27;Neoplasia Benigna do Ov«≠rio
+D28;Neoplasia Benigna de Outros «?rg«úos Genitais Femininos e de «?rg«úos N«úo Especificados
+D29;Neoplasia Benigna Dos «?rg«úos Genitais Masculinos
+D30;Neoplasia Benigna Dos «?rg«úos Urin«≠rios
+D31;Neoplasia Benigna do Olho e Anexos
+D32;Neoplasia Benigna Das Meninges
+D33;Neoplasia Benigna do Enc«∏falo e de Outras Partes do Sistema Nervoso Central
+D34;Neoplasia Benigna da Gl«Ωndula Tire«¸ide
+D35;Neoplasia Benigna de Outras Gl«Ωndulas End«¸crinas e Das N«úo Especificadas
+D36;Neoplasia Benigna de Outras Localiza«ı«Êes e de Localiza«ı«Êes N«úo Especificadas
+D37;Neoplasia de Comportamento Incerto ou Desconhecido da Cavidade Oral e Dos «?rg«úos Digestivos
+D38;Neoplasia de Comportamento Incerto ou Desconhecido do Ouvido M«∏dio e Dos «?rg«úos Respirat«¸rios e Intrator«≠cicos
+D39;Neoplasia de Comportamento Incerto ou Desconhecido Dos «?rg«úos Genitais Femininos
+D40;Neoplasia de Comportamento Incerto ou Desconhecido Dos «?rg«úos Genitais Masculinos
+D41;Neoplasia de Comportamento Incerto ou Desconhecido Dos «?rg«úos Urin«≠rios
+D42;Neoplasia de Comportamento Incerto ou Desconhecido Das Meninges
+D43;Neoplasia de Comportamento Incerto ou Desconhecido do Enc«∏falo e do Sistema Nervoso Central
+D44;Neoplasia de Comportamento Incerto ou Desconhecido Das Gl«Ωndulas End«¸crinas
+D45;Policitemia Vera
+D46;S«ndromes Mielodispl«≠sicas
+D47;Outras Neoplasias de Comportamento Incerto ou Desconhecido Dos Tecidos Linf«≠tico, Hematopo«∏tico e Tecidos Correlatos
+D48;Neoplasia de Comportamento Incerto ou Desconhecido de Outras Localiza«ı«Êes e de Localiza«ı«Êes N«úo Especificadas
+D50;Anemia Por Defici«¶ncia de Ferro
+D51;Anemia Por Defici«¶ncia de Vitamina B12
+D52;Anemia Por Defici«¶ncia de Folato
+D53;Outras Anemias Nutricionais
+D55;Anemia Devida a Transtornos Enzim«≠ticos
+D56;Talassemia
+D57;Transtornos Falciformes
+D58;Outras Anemias Hemol«ticas Heredit«≠rias
+D59;Anemia Hemol«tica Adquirida
+D60;Aplasia Pura da S«∏rie Vermelha, Adquirida (eritroblastopenia)
+D61;Outras Anemias Apl«≠sticas
+D62;Anemia Aguda P«¸s-hemorr«≠gica
+D63;Anemia em Doen«ıas Cr«Ônicas Classificadas em Outra Parte
+D64;Outras Anemias
+D65;Coagula«ı«úo Intravascular Disseminada (s«ndrome de Desfibrina«ı«úo)
+D66;Defici«¶ncia Heredit«≠ria do Fator VIII
+D67;Defici«¶ncia Heredit«≠ria do Fator IX
+D68;Outros Defeitos da Coagula«ı«úo
+D69;P«ßrpura e Outras Afec«ı«Êes Hemorr«≠gicas
+D70;Agranulocitose
+D71;Transtornos Funcionais Dos Neutr«¸filos Polimorfonucleares
+D72;Outros Transtornos Dos Gl«¸bulos Brancos
+D73;Doen«ıas do Ba«ıo
+D74;Metemoglobinemia
+D75;Outras Doen«ıas do Sangue e Dos «?rg«úos Hematopo«∏ticos
+D76;Algumas Doen«ıas Que Envolvem o Tecido Linforreticular e o Sistema Reticulohistioc«tico
+D77;Outros Transtornos do Sangue e Dos «?rg«úos Hematopo«∏ticos em Doen«ıas Classificadas em Outra Parte
+D80;Imunodefici«¶ncia Com Predomin«Ωncia de Defeitos de Anticorpos
+D81;Defici«¶ncias Imunit«≠rias Combinadas
+D82;"Imunodefici«¶ncia Associada Com Outros Defeitos ""major"""
+D83;Imunodefici«¶ncia Comum Vari«≠vel
+D84;Outras Imunodefici«¶ncias
+D86;Sarcoidose
+D89;Outros Transtornos Que Comprometem o Mecanismo Imunit«≠rio N«úo Classificados em Outra Parte
+E00;S«ndrome de Defici«¶ncia Cong«¶nita de Iodo
+E01;Transtornos Tireoidianos e Afec«ı«Êes Associadas, Relacionados «ˇ Defici«¶ncia de Iodo
+E02;Hipotireoidismo Subcl«nico Por Defici«¶ncia de Iodo
+E03;Outros Hipotireoidismos
+E04;Outros B«¸cios N«úo-t«¸xicos
+E05;Tireotoxicose (hipertireoidismo)
+E06;Tireoidite
+E07;Outros Transtornos da Tire«¸ide
+E10;Diabetes Mellitus Insulino-dependente
+E11;Diabetes Mellitus N«úo-insulino-dependente
+E12;Diabetes Mellitus Relacionado Com a Desnutri«ı«úo
+E13;Outros Tipos Especificados de Diabetes Mellitus
+E14;Diabetes Mellitus N«úo Especificado
+E15;Coma Hipoglic«¶mico N«úo-diab«∏tico
+E16;Outros Transtornos da Secre«ı«úo Pancre«≠tica Interna
+E20;Hipoparatireoidismo
+E21;Hiperparatireoidismo e Outros Transtornos da Gl«Ωndula Paratire«¸ide
+E22;Hiperfun«ı«úo da Hip«¸fise
+E23;Hipofun«ı«úo e Outros Transtornos da Hip«¸fise
+E24;S«ndrome de Cushing
+E25;Transtornos Adrenogenitais
+E26;Hiperaldosteronismo
+E27;Outros Transtornos da Gl«Ωndula Supra-renal
+E28;Disfun«ı«úo Ovariana
+E29;Disfun«ı«úo Testicular
+E30;Transtornos da Puberdade N«úo Classificados em Outra Parte
+E31;Disfun«ı«úo Poliglandular
+E32;Doen«ıas do Timo
+E34;Outros Transtornos End«¸crinos
+E35;Transtornos Das Gl«Ωndulas End«¸crinas em Doen«ıas Classificadas em Outra Parte
+E40;Kwashiorkor
+E41;Marasmo Nutricional
+E42;Kwashiorkor Marasm«≠tico
+E43;Desnutri«ı«úo Prot«∏ico-cal«¸rica Grave N«úo Especificada
+E44;Desnutri«ı«úo Prot«∏ico-cal«¸rica de Graus Moderado e Leve
+E45;Atraso do Desenvolvimento Devido «ˇ Desnutri«ı«úo Prot«∏ico-cal«¸rica
+E46;Desnutri«ı«úo Prot«∏ico-cal«¸rica N«úo Especificada
+E50;Defici«¶ncia de Vitamina A
+E51;Defici«¶ncia de Tiamina
+E52;Defici«¶ncia de Niacina (pelagra)
+E53;Defici«¶ncia de Outras Vitaminas do Grupo B
+E54;Defici«¶ncia de «Åcido Asc«¸rbico
+E55;Defici«¶ncia de Vitamina D
+E56;Outras Defici«¶ncias Vitam«nicas
+E58;Defici«¶ncia de C«≠lcio da Dieta
+E59;Defici«¶ncia de Sel«¶nio da Dieta
+E60;Defici«¶ncia de Zinco da Dieta
+E61;Defici«¶ncia de Outros Elementos Nutrientes
+E63;Outras Defici«¶ncias Nutricionais
+E64;Seq«¨elas de Desnutri«ı«úo e de Outras Defici«¶ncias Nutricionais
+E65;Adiposidade Localizada
+E66;Obesidade
+E67;Outras Formas de Hiperalimenta«ı«úo
+E68;Seq«¨elas de Hiperalimenta«ı«úo
+E70;Dist«ßrbios do Metabolismo de Amino«≠cidos Arom«≠ticos
+E71;Dist«ßrbios do Metabolismo de Amino«≠cidos de Cadeia Ramificada e do Metabolismo Dos «Åcidos Graxos
+E72;Outros Dist«ßrbios do Metabolismo de Amino«≠cidos
+E73;Intoler«Ωncia «ˇ Lactose
+E74;Outros Dist«ßrbios do Metabolismo de Carboidratos
+E75;Dist«ßrbios do Metabolismo de Esfingol«pides e Outros Dist«ßrbios de Dep«¸sito de L«pides
+E76;Dist«ßrbios do Metabolismo do Glicosaminoglicano
+E77;Dist«ßrbios do Metabolismo de Glicoprote«nas
+E78;Dist«ßrbios do Metabolismo de Lipoprote«nas e Outras Lipidemias
+E79;Dist«ßrbios do Metabolismo de Purina e Pirimidina
+E80;Dist«ßrbios do Metabolismo da Porfirina e da Bilirrubina
+E83;Dist«ßrbios do Metabolismo de Minerais
+E84;Fibrose C«stica
+E85;Amiloidose
+E86;Deple«ı«úo de Volume
+E87;Outros Transtornos do Equil«brio Hidroeletrol«tico e «Åcido-b«≠sico
+E88;Outros Dist«ßrbios Metab«¸licos
+E89;Transtornos End«¸crinos e Metab«¸licos P«¸s-procedimentos, N«úo Classificados em Outra Parte
+E90;Transtornos Nutricionais e Metab«¸licos em Doen«ıas Classificadas em Outra Parte
+F00;Dem«¶ncia na Doen«ıa de Alzheimer
+F01;Dem«¶ncia Vascular
+F02;Dem«¶ncia em Outras Doen«ıas Classificadas em Outra Parte
+F03;Dem«¶ncia N«úo Especificada
+F04;S«ndrome Amn«∏sica Org«Ωnica N«úo Induzida Pelo «Ålcool ou Por Outras Subst«Ωncias Psicoativas
+F05;Delirium N«úo Induzido Pelo «Ålcool ou Por Outras Subst«Ωncias Psicoativas
+F06;Outros Transtornos Mentais Devidos a Les«úo e Disfun«ı«úo Cerebral e a Doen«ıa F«sica
+F07;Transtornos de Personalidade e do Comportamento Devidos a Doen«ıa, a Les«úo e a Disfun«ı«úo Cerebral
+F09;Transtorno Mental Org«Ωnico ou Sintom«≠tico N«úo Especificado
+F10;Transtornos Mentais e Comportamentais Devidos ao Uso de «Ålcool
+F11;Transtornos Mentais e Comportamentais Devidos ao Uso de Opi«≠ceos
+F12;Transtornos Mentais e Comportamentais Devidos ao Uso de Canabin«¸ides
+F13;Transtornos Mentais e Comportamentais Devidos ao Uso de Sedativos e Hipn«¸ticos
+F14;Transtornos Mentais e Comportamentais Devidos ao Uso da Coca«na
+F15;Transtornos Mentais e Comportamentais Devidos ao Uso de Outros Estimulantes, Inclusive a Cafe«na
+F16;Transtornos Mentais e Comportamentais Devidos ao Uso de Alucin«¸genos
+F17;Transtornos Mentais e Comportamentais Devidos ao Uso de Fumo
+F18;Transtornos Mentais e Comportamentais Devidos ao Uso de Solventes Vol«≠teis
+F19;Transtornos Mentais e Comportamentais Devidos ao Uso de M«ßltiplas Drogas e ao Uso de Outras Subst«Ωncias Psicoativas
+F20;Esquizofrenia
+F21;Transtorno Esquizot«pico
+F22;Transtornos Delirantes Persistentes
+F23;Transtornos Psic«¸ticos Agudos e Transit«¸rios
+F24;Transtorno Delirante Induzido
+F25;Transtornos Esquizoafetivos
+F28;Outros Transtornos Psic«¸ticos N«úo-org«Ωnicos
+F29;Psicose N«úo-org«Ωnica N«úo Especificada
+F30;Epis«¸dio Man«aco
+F31;Transtorno Afetivo Bipolar
+F32;Epis«¸dios Depressivos
+F33;Transtorno Depressivo Recorrente
+F34;Transtornos de Humor (afetivos) Persistentes
+F38;Outros Transtornos do Humor (afetivos)
+F39;Transtorno do Humor (afetivo) N«úo Especificado
+F40;Transtornos F«¸bico-ansiosos
+F41;Outros Transtornos Ansiosos
+F42;Transtorno Obsessivo-compulsivo
+F43;"Rea«ı«Êes ao ""stress"" Grave e Transtornos de Adapta«ı«úo"
+F44;Transtornos Dissociativos (de Convers«úo)
+F45;Transtornos Somatoformes
+F48;Outros Transtornos Neur«¸ticos
+F50;Transtornos da Alimenta«ı«úo
+F51;Transtornos N«úo-org«Ωnicos do Sono Devidos a Fatores Emocionais
+F52;Disfun«ı«úo Sexual, N«úo Causada Por Transtorno ou Doen«ıa Org«Ωnica
+F53;Transtornos Mentais e Comportamentais Associados ao Puerp«∏rio, N«úo Classificados em Outra Parte
+F54;Fatores Psicol«¸gicos ou Comportamentais Associados a Doen«ıa ou a Transtornos Classificados em Outra Parte
+F55;Abuso de Subst«Ωncias Que N«úo Produzem Depend«¶ncia
+F59;S«ndromes Comportamentais Associados a Transtornos Das Fun«ı«Êes Fisiol«¸gicas e a Fatores F«sicos, N«úo Especificadas
+F60;Transtornos Espec«ficos da Personalidade
+F61;Transtornos Mistos da Personalidade e Outros Transtornos da Personalidade
+F62;Modifica«ı«Êes Duradouras da Personalidade N«úo Atribu«veis a Les«úo ou Doen«ıa Cerebral
+F63;Transtornos Dos H«≠bitos e Dos Impulsos
+F64;Transtornos da Identidade Sexual
+F65;Transtornos da Prefer«¶ncia Sexual
+F66;Transtornos Psicol«¸gicos e Comportamentais Associados ao Desenvolvimento Sexual e «ˇ Sua Orienta«ı«úo
+F68;Outros Transtornos da Personalidade e do Comportamento do Adulto
+F69;Transtorno da Personalidade e do Comportamento do Adulto, N«úo Especificado
+F70;Retardo Mental Leve
+F71;Retardo Mental Moderado
+F72;Retardo Mental Grave
+F73;Retardo Mental Profundo
+F78;Outro Retardo Mental
+F79;Retardo Mental N«úo Especificado
+F80;Transtornos Espec«ficos do Desenvolvimento da Fala e da Linguagem
+F81;Transtornos Espec«ficos do Desenvolvimento Das Habilidades Escolares
+F82;Transtorno Espec«fico do Desenvolvimento Motor
+F83;Transtornos Espec«ficos Misto do Desenvolvimento
+F84;Transtornos Globais do Desenvolvimento
+F88;Outros Transtornos do Desenvolvimento Psicol«¸gico
+F89;Transtorno do Desenvolvimento Psicol«¸gico N«úo Especificado
+F90;Transtornos Hipercin«∏ticos
+F91;Dist«ßrbios de Conduta
+F92;Transtornos Mistos de Conduta e Das Emo«ı«Êes
+F93;Transtornos Emocionais Com In«cio Especificamente na Inf«Ωncia
+F94;Transtornos do Funcionamento Social Com In«cio Especificamente Durante a Inf«Ωncia ou a Adolesc«¶ncia
+F95;Tiques
+F98;Outros Transtornos Comportamentais e Emocionais Com In«cio Habitualmente Durante a Inf«Ωncia ou a Adolesc«¶ncia
+F99;Transtorno Mental N«úo Especificado em Outra Parte
+G00;Meningite Bacteriana N«úo Classificada em Outra Parte
+G01;Meningite em Doen«ıas Bacterianas Classificadas em Outra Parte
+G02;Meningite em Outras Doen«ıas Infecciosas e Parasit«≠rias Classificadas em Outra Parte
+G03;Meningite Devida a Outras Causas e a Causas N«úo Especificadas
+G04;Encefalite, Mielite e Encefalomielite
+G05;Encefalite, Mielite e Encefalomielite em Doen«ıas Classificadas em Outra Parte
+G06;Abscesso e Granuloma Intracranianos e Intra-raquidianos
+G07;Abscesso e Granuloma Intracranianos e Intraspinais em Doen«ıas Classificadas em Outra Parte
+G08;Flebite e Tromboflebite Intracranianas e Intra-raquidianas
+G09;Seq«¨elas de Doen«ıas Inflamat«¸rias do Sistema Nervoso Central
+G10;Doen«ıa de Huntington
+G11;Ataxia Heredit«≠ria
+G12;Atrofia Muscular Espinal e S«ndromes Correlatas
+G13;Atrofias Sist«¶micas Que Afetam Principalmente o Sistema Nervoso Central em Doen«ıas Classificadas em Outra Parte
+G20;Doen«ıa de Parkinson
+G21;Parkinsonismo Secund«≠rio
+G22;Parkinsonismo em Doen«ıas Classificadas em Outra Parte
+G23;Outras Doen«ıas Degenerativas Dos G«Ωnglios da Base
+G24;Distonia
+G25;Outras Doen«ıas Extrapiramidais e Transtornos Dos Movimentos
+G26;Doen«ıas Extrapiramidais e Transtornos Dos Movimentos em Doen«ıas Classificadas em Outra Parte
+G30;Doen«ıa de Alzheimer
+G31;Outras Doen«ıas Degenerativas do Sistema Nervoso N«úo Classificadas em Outra Parte
+G32;Outros Transtornos Degenerativos do Sistema Nervoso em Doen«ıas Classificadas em Outra Parte
+G35;Esclerose M«ßltipla
+G36;Outras Desmieliniza«ı«Êes Disseminadas Agudas
+G37;Outras Doen«ıas Desmielinizantes do Sistema Nervoso Central
+G40;Epilepsia
+G41;Estado de Mal Epil«∏ptico
+G43;Enxaqueca
+G44;Outras S«ndromes de Algias Cef«≠licas
+G45;Acidentes Vasculares Cerebrais Isqu«¶micos Transit«¸rios e S«ndromes Correlatas
+G46;S«ndromes Vasculares Cerebrais Que Ocorrem em Doen«ıas Cerebrovasculares
+G47;Dist«ßrbios do Sono
+G50;Transtornos do Nervo Trig«¶meo
+G51;Transtornos do Nervo Facial
+G52;Transtornos de Outros Nervos Cranianos
+G53;Transtornos Dos Nervos Cranianos em Doen«ıas Classificadas em Outra Parte
+G54;Transtornos Das Ra«zes e Dos Plexos Nervosos
+G55;Compress«Êes Das Ra«zes e Dos Plexos Nervosos em Doen«ıas Classificadas em Outra Parte
+G56;Mononeuropatias Dos Membros Superiores
+G57;Mononeuropatias Dos Membros Inferiores
+G58;Outras Mononeuropatias
+G59;Mononeuropatias em Doen«ıas Classificadas em Outra Parte
+G60;Neuropatia Heredit«≠ria e Idiop«≠tica
+G61;Polineuropatia Inflamat«¸ria
+G62;Outras Polineuropatias
+G63;Polineuropatia em Doen«ıas Classificadas em Outra Parte
+G64;Outros Transtornos do Sistema Nervoso Perif«∏rico
+G70;Miastenia Gravis e Outros Transtornos Neuromusculares
+G71;Transtornos Prim«≠rios Dos M«ßsculos
+G72;Outras Miopatias
+G73;Transtornos da Jun«ı«úo Mioneural e Dos M«ßsculos em Doen«ıas Classificadas em Outra Parte
+G80;Paralisia Cerebral
+G81;Hemiplegia
+G82;Paraplegia e Tetraplegia
+G83;Outras S«ndromes Paral«ticas
+G90;Transtornos do Sistema Nervoso Aut«Ônomo
+G91;Hidrocefalia
+G92;Encefalopatia T«¸xica
+G93;Outros Transtornos do Enc«∏falo
+G94;Outros Transtornos do Enc«∏falo em Doen«ıas Classificadas em Outra Parte
+G95;Outras Doen«ıas da Medula Espinal
+G96;Outros Transtornos do Sistema Nervoso Central
+G97;Transtornos P«¸s-procedimento do Sistema Nervoso N«úo Classificados em Outra Parte
+G98;Outros Transtornos do Sistema Nervoso N«úo Classificados em Outra Parte
+G99;Outros Transtornos do Sistema Nervoso em Doen«ıas Classificadas em Outra Parte
+H00;Hord«∏olo e Cal«≠zio
+H01;Outras Inflama«ı«Êes da P«≠lpebra
+H02;Outros Transtornos da P«≠lpebra
+H03;Transtornos da P«≠lpebra em Doen«ıas Classificadas em Outras Partes
+H04;Transtornos do Aparelho Lacrimal
+H05;Transtornos da «?rbita
+H06;Transtornos do Aparelho Lacrimal e da «?rbita em Doen«ıas Classificadas em Outra Parte
+H10;Conjuntivite
+H11;Outros Transtornos da Conjuntiva
+H13;Transtornos da Conjuntiva em Doen«ıas Classificadas em Outra Parte
+H15;Transtornos da Escler«¸tica
+H16;Ceratite
+H17;Cicatrizes e Opacidades da C«¸rnea
+H18;Outros Transtornos da C«¸rnea
+H19;Transtorno da Escler«¸tica e da C«¸rnea em Doen«ıas Classificadas em Outra Parte
+H20;Iridociclite
+H21;Outros Transtornos da «çris e do Corpo Ciliar
+H22;Transtornos da «çris e do Corpo Ciliar em Doen«ıas Classificadas em Outra Parte
+H25;Catarata Senil
+H26;Outras Cataratas
+H27;Outros Transtornos do Cristalino
+H28;Catarata e Outros Transtornos do Cristalino em Doen«ıas Classificadas em Outra Parte
+H30;Inflama«ı«úo Coriorretiniana
+H31;Outros Transtornos da Cor«¸ide
+H32;Transtornos Coriorretinianos em Doen«ıas Classificadas em Outra Parte
+H33;Descolamentos e Defeitos da Retina
+H34;Oclus«Êes Vasculares da Retina
+H35;Outros Transtornos da Retina
+H36;Transtornos da Retina em Doen«ıas Classificadas em Outra Parte
+H40;Glaucoma
+H42;Glaucoma em Doen«ıas Classificadas em Outra Parte
+H43;Transtornos do Humor V«treo
+H44;Transtornos do Globo Ocular
+H45;Transtornos do Humor V«treo e do Globo Ocular em Doen«ıas Classificadas em Outra Parte
+H46;Neurite «?ptica
+H47;Outros Transtornos do Nervo «?ptico e Das Vias «?pticas
+H48;Transtornos do Nervo «?ptico (segundo Par) e Das Vias «?pticas em Doen«ıas Classificadas em Outra Parte
+H49;Estrabismo Paral«tico
+H50;Outros Estrabismos
+H51;Outros Transtornos do Movimento Binocular
+H52;Transtornos da Refra«ı«úo e da Acomoda«ı«úo
+H53;Dist«ßrbios Visuais
+H54;Cegueira e Vis«úo Subnormal
+H55;Nistagmo e Outros Movimentos Irregulares do Olho
+H57;Outros Transtornos do Olho e Anexos
+H58;Outros Transtornos do Olho e Anexos em Doen«ıas Classificadas em Outra Parte
+H59;Transtornos do Olho e Anexos P«¸s-procedimento N«úo Classificados em Outra Parte
+H60;Otite Externa
+H61;Outros Transtornos do Ouvido Externo
+H62;Transtornos do Ouvido Externo em Doen«ıas Classificadas em Outra Parte
+H65;Otite M«∏dia N«úo-supurativa
+H66;Otite M«∏dia Supurativa e as N«úo Especificadas
+H67;Otite M«∏dia em Doen«ıas Classificadas em Outra Parte
+H68;Salpingite e Obstru«ı«úo da Trompa de Eust«≠quio
+H69;Outros Transtornos da Trompa de Eust«≠quio
+H70;Mastoidite e Afec«ı«Êes Correlatas
+H71;Colesteatoma do Ouvido M«∏dio
+H72;Perfura«ı«úo da Membrana do T«mpano
+H73;Outros Transtornos da Membrana do T«mpano
+H74;Outros Transtornos do Ouvido M«∏dio e da Mast«¸ide
+H75;Outros Transtornos do Ouvido M«∏dio e da Mast«¸ide em Doen«ıas Classificadas em Outra Parte
+H80;Otosclerose
+H81;Transtornos da Fun«ı«úo Vestibular
+H82;S«ndromes Vertiginosas em Doen«ıas Classificadas em Outra Parte
+H83;Outros Transtornos do Ouvido Interno
+H90;Perda de Audi«ı«úo Por Transtorno de Condu«ı«úo Eou Neuro-sensorial
+H91;Outras Perdas de Audi«ı«úo
+H92;Otalgia e Secre«ı«úo Auditiva
+H93;Outros Transtornos do Ouvido N«úo Classificados em Outra Parte
+H94;Outros Transtornos do Ouvido em Doen«ıas Classificadas em Outra Parte
+H95;Transtornos do Ouvido e da Ap«¸fise Mast«¸ide P«¸s-procedimentos, N«úo Classificados em Outra Parte
+I00;Febre Reum«≠tica Sem Men«ı«úo de Comprometimento do Cora«ı«úo
+I01;Febre Reum«≠tica Com Comprometimento do Cora«ı«úo
+I02;Cor«∏ia Reum«≠tica
+I05;Doen«ıas Reum«≠ticas da Valva Mitral
+I06;Doen«ıas Reum«≠ticas da Valva A«¸rtica
+I07;Doen«ıas Reum«≠ticas da Valva Tric«ßspide
+I08;Doen«ıas de M«ßltiplas Valvas
+I09;Outras Doen«ıas Reum«≠ticas do Cora«ı«úo
+I10;Hipertens«úo Essencial (prim«≠ria)
+I11;Doen«ıa Card«aca Hipertensiva
+I12;Doen«ıa Renal Hipertensiva
+I13;Doen«ıa Card«aca e Renal Hipertensiva
+I15;Hipertens«úo Secund«≠ria
+I20;Angina Pectoris
+I21;Infarto Agudo do Mioc«≠rdio
+I22;Infarto do Mioc«≠rdio Recorrente
+I23;Algumas Complica«ı«Êes Atuais Subseq«¨entes ao Infarto Agudo do Mioc«≠rdio
+I24;Outras Doen«ıas Isqu«¶micas Agudas do Cora«ı«úo
+I25;Doen«ıa Isqu«¶mica Cr«Ônica do Cora«ı«úo
+I26;Embolia Pulmonar
+I27;Outras Formas de Doen«ıa Card«aca Pulmonar
+I28;Outras Doen«ıas Dos Vasos Pulmonares
+I30;Pericardite Aguda
+I31;Outras Doen«ıas do Peric«≠rdio
+I32;Pericardite em Doen«ıas Classificadas em Outra Parte
+I33;Endocardite Aguda e Subaguda
+I34;Transtornos N«úo-reum«≠ticos da Valva Mitral
+I35;Transtornos N«úo-reum«≠ticos da Valva A«¸rtica
+I36;Transtornos N«úo-reum«≠ticos da Valva Tric«ßspide
+I37;Transtornos da Valva Pulmonar
+I38;Endocardite de Valva N«úo Especificada
+I39;Endocardite e Transtornos Valvulares Card«acos em Doen«ıas Classificadas em Outra Parte
+I40;Miocardite Aguda
+I41;Miocardite em Doen«ıas Classificadas em Outra Parte
+I42;Cardiomiopatias
+I43;Cardiomiopatia em Doen«ıas Classificadas em Outra Parte
+I44;Bloqueio Atrioventricular e do Ramo Esquerdo
+I45;Outros Transtornos de Condu«ı«úo
+I46;Parada Card«aca
+I47;Taquicardia Parox«stica
+I48;Flutter e Fibrila«ı«úo Atrial
+I49;Outras Arritmias Card«acas
+I50;Insufici«¶ncia Card«aca
+I51;Complica«ı«Êes de Cardiopatias e Doen«ıas Card«acas Mal Definidas
+I52;Outras Afec«ı«Êes Card«acas em Doen«ıas Classificadas em Outra Parte
+I60;Hemorragia Subaracn«¸ide
+I61;Hemorragia Intracerebral
+I62;Outras Hemorragias Intracranianas N«úo-traum«≠ticas
+I63;Infarto Cerebral
+I64;Acidente Vascular Cerebral, N«úo Especificado Como Hemorr«≠gico ou Isqu«¶mico
+I65;Oclus«úo e Estenose de Art«∏rias Pr«∏-cerebrais Que N«úo Resultam em Infarto Cerebral
+I66;Oclus«úo e Estenose de Art«∏rias Cerebrais Que N«úo Resultam em Infarto Cerebral
+I67;Outras Doen«ıas Cerebrovasculares
+I68;Transtornos Cerebrovasculares em Doen«ıas Classificadas em Outra Parte
+I69;Seq«¨elas de Doen«ıas Cerebrovasculares
+I70;Aterosclerose
+I71;Aneurisma e Dissec«ı«úo da Aorta
+I72;Outros Aneurismas
+I73;Outras Doen«ıas Vasculares Perif«∏ricas
+I74;Embolia e Trombose Arteriais
+I77;Outras Afec«ı«Êes Das Art«∏rias e Arter«olas
+I78;Doen«ıas Dos Capilares
+I79;Transtornos Das Art«∏rias, Das Arter«olas e Dos Capilares em Doen«ıas Classificadas em Outra Parte
+I80;Flebite e Tromboflebite
+I81;Trombose da Veia Porta
+I82;Outra Embolia e Trombose Venosas
+I83;Varizes Dos Membros Inferiores
+I84;Hemorr«¸idas
+I85;Varizes Esofagianas
+I86;Varizes de Outras Localiza«ı«Êes
+I87;Outros Transtornos Das Veias
+I88;Linfadenite Inespec«fica
+I89;Outros Transtornos N«úo-infecciosos Dos Vasos Linf«≠ticos e Dos G«Ωnglios Linf«≠ticos
+I95;Hipotens«úo
+I97;Transtornos do Aparelho Circulat«¸rio, Subseq«¨entes a Procedimentos N«úo Classificados em Outra Parte
+I98;Outros Transtornos do Aparelho Circulat«¸rio em Doen«ıas Classificadas em Outra Parte
+I99;Outros Transtornos do Aparelho Circulat«¸rio e os N«úo Especificados
+J00;Nasofaringite Aguda (resfriado Comum)
+J01;Sinusite Aguda
+J02;Faringite Aguda
+J03;Amigdalite Aguda
+J04;Laringite e Traque«te Agudas
+J05;Laringite Obstrutiva Aguda (crupe) e Epiglotite
+J06;Infec«ı«Êes Agudas Das Vias A«∏reas Superiores de Localiza«ı«Êes M«ßltiplas e N«úo Especificadas
+J09;Influenza (gripe) Devida a V«rus Identificado da Gripe Avi«≠ria
+J10;Influenza Devida a Outro V«rus da Influenza (gripe) Identificado
+J11;Influenza (gripe) Devida a V«rus N«úo Identificado
+J12;Pneumonia Viral N«úo Classificada em Outra Parte
+J13;Pneumonia Devida a Streptococcus Pneumoniae
+J14;Pneumonia Devida a Haemophilus Infuenzae
+J15;Pneumonia Bacteriana N«úo Classificada em Outra Parte
+J16;Pneumonia Devida a Outros Microorganismos Infecciosos Especificados N«úo Classificados em Outra Parte
+J17;Pneumonia em Doen«ıas Classificadas em Outra Parte
+J18;Pneumonia Por Microorganismo N«úo Especificada
+J20;Bronquite Aguda
+J21;Bronquiolite Aguda
+J22;Infec«ı«Êes Agudas N«úo Especificada Das Vias A«∏reas Inferiores
+J30;Rinite Al«∏rgica e Vasomotora
+J31;Rinite, Nasofaringite e Faringite Cr«Ônicas
+J32;Sinusite Cr«Ônica
+J33;P«¸lipo Nasal
+J34;Outros Transtornos do Nariz e Dos Seios Paranasais
+J35;Doen«ıas Cr«Ônicas Das Am«gdalas e Das Aden«¸ides
+J36;Abscesso Periamigdaliano
+J37;Laringite e Laringotraque«te Cr«Ônicas
+J38;Doen«ıas Das Cordas Vocais e da Laringe N«úo Classificadas em Outra Parte
+J39;Outras Doen«ıas Das Vias A«∏reas Superiores
+J40;Bronquite N«úo Especificada Como Aguda ou Cr«Ônica
+J41;Bronquite Cr«Ônica Simples e a Mucopurulenta
+J42;Bronquite Cr«Ônica N«úo Especificada
+J43;Enfisema
+J44;Outras Doen«ıas Pulmonares Obstrutivas Cr«Ônicas
+J45;Asma
+J46;Estado de Mal Asm«≠tico
+J47;Bronquectasia
+J60;Pneumoconiose Dos Mineiros de Carv«úo
+J61;Pneumoconiose Devida a Amianto (asbesto) e Outras Fibras Minerais
+J62;Pneumoconiose Devida a Poeira Que Contenham S«lica
+J63;Pneumoconiose Devida a Outras Poeiras Inorg«Ωnicas
+J64;Pneumoconiose N«úo Especificada
+J65;Pneumoconiose Associada Com Tuberculose
+J66;Doen«ıas Das Vias A«∏reas Devida a Poeiras Org«Ωnicas Espec«ficas
+J67;Pneumonite de Hipersensibilidade Devida a Poeiras Org«Ωnicas
+J68;Afec«ı«Êes Respirat«¸rias Devidas a Inala«ı«úo de Produtos Qu«micos, Gases, Fuma«ıas e Vapores
+J69;Pneumonite Devida a S«¸lidos e L«quidos
+J70;Afec«ı«Êes Respirat«¸rias Devida a Outros Agentes Externos
+J80;S«ndrome do Desconforto Respirat«¸rio do Adulto
+J81;Edema Pulmonar, N«úo Especificado de Outra Forma
+J82;Eosinofilia Pulmonar, N«úo Classificada em Outra Parte
+J84;Outras Doen«ıas Pulmonares Intersticiais
+J85;Abscesso do Pulm«úo e do Mediastino
+J86;Piot«¸rax
+J90;Derrame Pleural N«úo Classificado em Outra Parte
+J91;Derrame Pleural em Afec«ı«Êes Classificadas em Outra Parte
+J92;Placas Pleurais
+J93;Pneumot«¸rax
+J94;Outras Afec«ı«Êes Pleurais
+J95;Afec«ı«Êes Respirat«¸rias P«¸s-procedimentos N«úo Classificadas em Outra Parte
+J96;Insufici«¶ncia Respirat«¸ria N«úo Classificada de Outra Parte
+J98;Outros Transtornos Respirat«¸rios
+J99;Transtornos Respirat«¸rios em Doen«ıas Classificadas em Outra Parte
+K00;Dist«ßrbios do Desenvolvimento e da Erup«ı«úo Dos Dentes
+K01;Dentes Inclusos e Impactados
+K02;C«≠rie Dent«≠ria
+K03;Outras Doen«ıas Dos Tecidos Dent«≠rios Duros
+K04;Doen«ıas da Polpa e Dos Tecidos Periapicais
+K05;Gengivite e Doen«ıas Periodontais
+K06;Outros Transtornos da Gengiva e do Rebordo Alveolar Sem Dentes
+K07;Anomalias Dentofaciais (inclusive a Maloclus«úo)
+K08;Outros Transtornos Dos Dentes e de Suas Estruturas de Sustenta«ı«úo
+K09;Cistos da Regi«úo Bucal N«úo Classificados em Outra Parte
+K10;Outras Doen«ıas Dos Maxilares
+K11;Doen«ıas Das Gl«Ωndulas Salivares
+K12;Estomatite e Les«Êes Correlatas
+K13;Outras Doen«ıas do L«≠bio e da Mucosa Oral
+K14;Doen«ıas da L«ngua
+K20;Esofagite
+K21;Doen«ıa de Refluxo Gastroesof«≠gico
+K22;Outras Doen«ıas do Es«Ôfago
+K23;Transtornos do Es«Ôfago em Doen«ıas Classificadas em Outra Parte
+K25;«?lcera G«≠strica
+K26;«?lcera Duodenal
+K27;«?lcera P«∏ptica de Localiza«ı«úo N«úo Especificada
+K28;«?lcera Gastrojejunal
+K29;Gastrite e Duodenite
+K30;Dispepsia
+K31;Outras Doen«ıas do Est«Ômago e do Duodeno
+K35;Apendicite Aguda
+K36;Outras Formas de Apendicite
+K37;Apendicite, Sem Outras Especifica«ı«Êes
+K38;Outras Doen«ıas do Ap«¶ndice
+K40;H«∏rnia Inguinal
+K41;H«∏rnia Femoral
+K42;H«∏rnia Umbilical
+K43;H«∏rnia Ventral
+K44;H«∏rnia Diafragm«≠tica
+K45;Outras H«∏rnias Abdominais
+K46;H«∏rnia Abdominal N«úo Especificada
+K50;Doen«ıa de Crohn (enterite Regional)
+K51;Colite Ulcerativa
+K52;Outras Gastroenterites e Colites N«úo-infecciosas
+K55;Transtornos Vasculares do Intestino
+K56;«çleo Paral«tico e Obstru«ı«úo Intestinal Sem H«∏rnia
+K57;Doen«ıa Diverticular do Intestino
+K58;S«ndrome do C«¸lon Irrit«≠vel
+K59;Outros Transtornos Funcionais do Intestino
+K60;Fissura e F«stula Das Regi«Êes Anal e Retal
+K61;Abscesso Das Regi«Êes Anal e Retal
+K62;Outras Doen«ıas do Reto e do «?nus
+K63;Outras Doen«ıas do Intestino
+K65;Peritonite
+K66;Outros Transtornos do Perit«Ônio
+K67;Comprometimento do Perit«Ônio, em Doen«ıas Infecciosas Classificadas em Outra Parte
+K70;Doen«ıa Alco«¸lica do F«gado
+K71;Doen«ıa Hep«≠tica T«¸xica
+K72;Insufici«¶ncia Hep«≠tica N«úo Classificada em Outra Parte
+K73;Hepatite Cr«Ônica N«úo Classificada em Outra Parte
+K74;Fibrose e Cirrose Hep«≠ticas
+K75;Outras Doen«ıas Inflamat«¸rias do F«gado
+K76;Outras Doen«ıas do F«gado
+K77;Transtornos do F«gado em Doen«ıas Classificadas em Outra Parte
+K80;Colelit«ase
+K81;Colecistite
+K82;Outras Doen«ıas da Ves«cula Biliar
+K83;Outras Doen«ıas Das Vias Biliares
+K85;Pancreatite Aguda
+K86;Outras Doen«ıas do P«Ωncreas
+K87;Transtornos da Ves«cula Biliar, Das Vias Biliares e do P«Ωncreas em Doen«ıas Classificadas em Outra Parte
+K90;M«≠-absor«ı«úo Intestinal
+K91;Transtornos do Aparelho Digestivo P«¸s-procedimentos, N«úo Classificados em Outra Parte
+K92;Outras Doen«ıas do Aparelho Digestivo
+K93;Transtornos de Outros «?rg«úos Digestivos em Doen«ıas Classificadas em Outra Parte
+L00;S«ndrome da Pele Escaldada Estafiloc«¸cica do Rec«∏m-nascido
+L01;Impetigo
+L02;Abscesso Cut«Ωneo, Fur«ßnculo e Antraz
+L03;Celulite (Flegm«úo)
+L04;Linfadenite Aguda
+L05;Cisto Pilonidal
+L08;Outras Infec«ı«Êes Localizadas da Pele e do Tecido Subcut«Ωneo
+L10;P«¶nfigo
+L11;Outras Afec«ı«Êes Acantol«ticas
+L12;Penfig«¸ide
+L13;Outras Afec«ı«Êes Bolhosas
+L14;Afec«ı«Êes Bolhosas em Doen«ıas Classificadas em Outra Parte
+L20;Dermatite At«¸pica
+L21;Dermatite Seborr«∏ica
+L22;Dermatite Das Fraldas
+L23;Dermatites Al«∏rgicas de Contato
+L24;Dermatites de Contato Por Irritantes
+L25;Dermatite de Contato N«úo Especificada
+L26;Dermatite Esfoliativa
+L27;Dermatite Devida a Subst«Ωncias de Uso Interno
+L28;L«quen Simples Cr«Ônico e Prurigo
+L29;Prurido
+L30;Outras Dermatites
+L40;Psor«ase
+L41;Parapsor«ase
+L42;Pitir«ase R«¸sea
+L43;L«quen Plano
+L44;Outras Afec«ı«Êes P«≠pulo-descamativas
+L45;Afec«ı«Êes P«≠pulo-descamativas em Doen«ıas Classificadas em Outra Parte
+L50;Urtic«≠ria
+L51;Eritema Polimorfo (eritema Multiforme)
+L52;Eritema Nodoso
+L53;Outras Afec«ı«Êes Eritematosas
+L54;Eritema em Doen«ıas Classificadas em Outra Parte
+L55;Queimadura Solar
+L56;Outras Altera«ı«Êes Agudas da Pele Devidas a Radia«ı«úo Ultravioleta
+L57;Altera«ı«Êes da Pele Devidas «ˇ Exposi«ı«úo Cr«Ônica «ˇ Radia«ı«úo N«úo Ionizante
+L58;Radiodermatite
+L59;Outras Afec«ı«Êes da Pele e do Tecido Subcut«Ωneo Relacionadas Com a Radia«ı«úo
+L60;Afec«ı«Êes Das Unhas
+L62;Afec«ı«Êes Das Unhas em Doen«ıas Classificadas em Outra Parte
+L63;Alop«∏cia Areata
+L64;Alop«∏cia Androg«¶nica
+L65;Outras Formas N«úo Cicatriciais da Perda de Cabelos ou P«¶los
+L66;Alop«∏cia Cicatricial (perda de Cabelos ou P«¶los, Cicatricial)
+L67;Anormalidades da Cor e do Ped«culo Dos Cabelos e Dos P«¶los
+L68;Hipertricose
+L70;Acne
+L71;Ros«≠cea
+L72;Cistos Foliculares da Pele e do Tecido Subcut«Ωneo
+L73;Outras Afec«ı«Êes Foliculares
+L74;Afec«ı«Êes Das Gl«Ωndulas Sudor«paras «?crinas
+L75;Afec«ı«Êes Das Gl«Ωndulas Sudor«paras Ap«¸crinas
+L80;Vitiligo
+L81;Outros Transtornos da Pigmenta«ı«úo
+L82;Ceratose Seborr«∏ica
+L83;Acantose Nigricans
+L84;Calos e Calosidades
+L85;Outras Formas de Espessamento Epid«∏rmico
+L86;Ceratodermia em Doen«ıas Classificadas em Outra Parte
+L87;Transtornos da Elimina«ı«úo Transepid«∏rmica
+L88;Piodermite Gangrenosa
+L89;«?lcera de Dec«ßbito
+L90;Afec«ı«Êes Atr«¸ficas da Pele
+L91;Afec«ı«Êes Hipertr«¸ficas da Pele
+L92;Afec«ı«Êes Granulomatosas da Pele e do Tecido Subcut«Ωneo
+L93;L«ßpus Eritematoso
+L94;Outras Afec«ı«Êes Localizadas do Tecido Conjuntivo
+L95;Vasculite Limitada a Pele N«úo Classificadas em Outra Parte
+L97;«?lcera Dos Membros Inferiores N«úo Classificada em Outra Parte
+L98;Outras Afec«ı«Êes da Pele e do Tecido Subcut«Ωneo N«úo Classificadas em Outra Parte
+L99;Outras Afec«ı«Êes da Pele e do Tecido Subcut«Ωneo em Doen«ıas Classificadas em Outra Parte
+M00;Artrite Piog«¶nica
+M01;Infec«ı«Êes Diretas da Articula«ı«úo em Doen«ıas Infecciosas e Parasit«≠rias Classificadas em Outra Parte
+M02;Artropatias Reacionais
+M03;Artropatias P«¸s-infecciosas e Reacionais em Doen«ıas Infecciosas Classificadas em Outra Parte
+M05;Artrite Reumat«¸ide Soro-positiva
+M06;Outras Artrites Reumat«¸ides
+M07;Artropatias Psori«≠sicas e Enterop«≠ticas
+M08;Artrite Juvenil
+M09;Artrite Juvenil em Doen«ıas Classificadas em Outra Parte
+M10;Gota
+M11;Outras Artropatias Por Deposi«ı«úo de Cristais
+M12;Outras Artropatias Especificadas
+M13;Outras Artrites
+M14;Artropatias em Outras Doen«ıas Classificadas em Outra Parte
+M15;Poliartrose
+M16;Coxartrose (artrose do Quadril)
+M17;Gonartrose (artrose do Joelho)
+M18;Artrose da Primeira Articula«ı«úo Carpometacarpiana
+M19;Outras Artroses
+M20;Deformidades Adquiridas Dos Dedos Das M«úos e Dos P«∏s
+M21;Outras Deformidades Adquiridas Dos Membros
+M22;Transtornos da R«¸tula (patela)
+M23;Transtornos Internos Dos Joelhos
+M24;Outros Transtornos Articulares Espec«ficos
+M25;Outros Transtornos Articulares N«úo Classificados em Outra Parte
+M30;Poliarterite Nodosa e Afec«ı«Êes Correlatas
+M31;Outras Vasculopatias Necrotizantes
+M32;L«ßpus Eritematoso Disseminado (sist«¶mico)
+M33;Dermatopoliomiosite
+M34;Esclerose Sist«¶mica
+M35;Outras Afec«ı«Êes Sist«¶micas do Tecido Conjuntivo
+M36;Doen«ıas Sist«¶micas do Tecido Conjuntivo em Doen«ıas Classificadas em Outra Parte
+M40;Cifose e Lordose
+M41;Escoliose
+M42;Osteocondrose da Coluna Vertebral
+M43;Outras Dorsopatias Deformantes
+M45;Espondilite Ancilosante
+M46;Outras Espondilopatias Inflamat«¸rias
+M47;Espondilose
+M48;Outras Espondilopatias
+M49;Espondilopatias em Doen«ıas Classificadas em Outra Parte
+M50;Transtornos Dos Discos Cervicais
+M51;Outros Transtornos de Discos Intervertebrais
+M53;Outras Dorsopatias N«úo Classificadas em Outra Parte
+M54;Dorsalgia
+M60;Miosite
+M61;Calcifica«ı«úo e Ossifica«ı«úo do M«ßsculo
+M62;Outros Transtornos Musculares
+M63;Transtornos de M«ßsculo em Doen«ıas Classificadas em Outra Parte
+M65;Sinovite e Tenossinovite
+M66;Ruptura Espont«Ωnea de Sin«¸via e de Tend«úo
+M67;Outros Transtornos Das Sin«¸vias e Dos Tend«Êes
+M68;Transtorno de Sin«¸vias e de Tend«Êes em Doen«ıas Classificadas em Outra Parte
+M70;Transtornos Dos Tecidos Moles Relacionados Com o Uso, Uso Excessivo e Press«úo
+M71;Outras Bursopatias
+M72;Transtornos Fibrobl«≠sticos
+M73;Transtornos Dos Tecidos Moles em Doen«ıas Classificadas em Outra Parte
+M75;Les«Êes do Ombro
+M76;Entesopatias Dos Membros Inferiores, Excluindo p«∏
+M77;Outras Entesopatias
+M79;Outros Transtornos Dos Tecidos Moles, N«úo Classificados em Outra Parte
+M80;Osteoporose Com Fratura Patol«¸gica
+M81;Osteoporose Sem Fratura Patol«¸gica
+M82;Osteoporose em Doen«ıas Classificadas em Outra Parte
+M83;Osteomal«≠cia do Adulto
+M84;Transtornos da Continuidade do Osso
+M85;Outros Transtornos da Densidade e da Estrutura «?sseas
+M86;Osteomielite
+M87;Osteonecrose
+M88;Doen«ıa de Paget do Osso (oste«te Deformante)
+M89;Outros Transtornos «?sseos
+M90;Osteopatias em Doen«ıas Classificadas em Outra Parte
+M91;Osteocondrose Juvenil do Quadril e da Pelve
+M92;Outras Osteocondroses Juvenis
+M93;Outras Osteocondropatias
+M94;Outros Transtornos Das Cartilagens
+M95;Outras Deformidades Adquiridas do Sistema Osteomuscular e do Tecido Conjuntivo
+M96;Transtornos Osteomusculares P«¸s-procedimentos N«úo Classificados em Outra Parte
+M99;Les«Êes Biomec«Ωnicas N«úo Classificadas em Outra Parte
+N00;S«ndrome Nefr«tica Aguda
+N01;S«ndrome Nefr«tica Rapidamente Progressiva
+N02;Hemat«ßria Recidivante e Persistente
+N03;S«ndrome Nefr«tica Cr«Ônica
+N04;S«ndrome Nefr«¸tica
+N05;S«ndrome Nefr«tica N«úo Especificada
+N06;Protein«ßria Isolada Com Les«úo Morfol«¸gica Especificada
+N07;Nefropatia Heredit«≠ria N«úo Classificada em Outra Parte
+N08;Transtornos Glomerulares em Doen«ıas Classificadas em Outra Parte
+N10;Nefrite T«ßbulo-intersticial Aguda
+N11;Nefrite T«ßbulo-intersticial Cr«Ônica
+N12;Nefrite T«ßbulo-intersticial N«úo Especificada se Aguda ou Cr«Ônica
+N13;Uropatia Obstrutiva e Por Refluxo
+N14;Afec«ı«Êes Tubulares e T«ßbulo-intersticiais Induzidas Por Drogas ou Metais Pesados
+N15;Outras Doen«ıas Renais T«ßbulo-intersticiais
+N16;Transtornos Renais T«ßbulo-intersticiais em Doen«ıas Classificadas em Outra Parte
+N17;Insufici«¶ncia Renal Aguda
+N18;Insufici«¶ncia Renal Cr«Ônica
+N19;Insufici«¶ncia Renal N«úo Especificada
+N20;Calculose do Rim e do Ureter
+N21;Calculose do Trato Urin«≠rio Inferior
+N22;Calculose do Trato Urin«≠rio Inferior em Doen«ıas Classificadas em Outra Parte
+N23;C«¸lica Nefr«∏tica N«úo Especificada
+N25;Transtornos Resultantes de Fun«ı«úo Renal Tubular Alterada
+N26;Rim Contra«do, N«úo Especificado
+N27;Hipoplasia Renal de Causa Desconhecida
+N28;Outros Transtornos do Rim e do Ureter N«úo Classificado em Outra Parte
+N29;Outros Transtornos do Rim e do Ureter em Doen«ıas Classificadas em Outra Parte
+N30;Cistite
+N31;Disfun«ı«Êes Neuromusculares da Bexiga N«úo Classificados em Outra Parte
+N32;Outros Transtornos da Bexiga
+N33;Transtornos da Bexiga em Doen«ıas Classificadas em Outra Parte
+N34;Uretrite e S«ndrome Uretral
+N35;Estenose da Uretra
+N36;Outros Transtornos da Uretra
+N37;Transtornos da Uretra em Doen«ıas Classificadas em Outra Parte
+N39;Outros Transtornos do Trato Urin«≠rio
+N40;Hiperplasia da Pr«¸stata
+N41;Doen«ıas Inflamat«¸rias da Pr«¸stata
+N42;Outras Afec«ı«Êes da Pr«¸stata
+N43;Hidrocele e Espermatocele
+N44;Tor«ı«úo do Test«culo
+N45;Orquite e Epididimite
+N46;Infertilidade Masculina
+N47;Hipertrofia do Prep«ßcio, Fimose e Parafimose
+N48;Outros Transtornos do P«¶nis
+N49;Transtornos Inflamat«¸rios de «?rg«úos Genitais Masculinos, N«úo Classificados em Outra Parte
+N50;Outros Transtornos Dos «?rg«úos Genitais Masculinos
+N51;Transtornos Dos «?rg«úos Genitais Masculinos em Doen«ıas Classificadas em Outra Parte
+N60;Displasias Mam«≠rias Benignas
+N61;Transtornos Inflamat«¸rios da Mama
+N62;Hipertrofia da Mama
+N63;N«¸dulo Mam«≠rio N«úo Especificado
+N64;Outras Doen«ıas da Mama
+N70;Salpingite e Ooforite
+N71;Doen«ıa Inflamat«¸ria do «?tero, Exceto o Colo
+N72;Doen«ıa Inflamat«¸ria do Colo do «?tero
+N73;Outras Doen«ıas Inflamat«¸rias P«∏lvicas Femininas
+N74;Transtornos Inflamat«¸rios da Pelve Feminina em Doen«ıas Classificadas em Outra Parte
+N75;Doen«ıas da Gl«Ωndula de Bartholin
+N76;Outras Afec«ı«Êes Inflamat«¸rias da Vagina e da Vulva
+N77;Ulcera«ı«úo e Inflama«ı«úo Vulvovaginais em Doen«ıas Classificadas em Outra Parte
+N80;Endometriose
+N81;Prolapso Genital Feminino
+N82;F«stulas do Trato Genital Feminino
+N83;Transtornos N«úo-inflamat«¸rios do Ov«≠rio, da Trompa de Fal«¸pio e do Ligamento Largo
+N84;P«¸lipo do Trato Genital Feminino
+N85;Outros Transtornos N«úo-inflamat«¸rios do «?tero, Exceto do Colo do «?tero
+N86;Eros«úo e Ectr«¸pio do Colo do «?tero
+N87;Displasia do Colo do «?tero
+N88;Outros Transtornos N«úo-inflamat«¸rios do Colo do «?tero
+N89;Outros Transtornos N«úo-inflamat«¸rios da Vagina
+N90;Outros Transtornos N«úo-inflamat«¸rios da Vulva e do Per«neo
+N91;Menstrua«ı«úo Ausente, Escassa e Pouco Freq«¨ente
+N92;Menstrua«ı«úo Excessiva, Freq«¨ente e Irregular
+N93;Outros Sangramentos Anormais do «?tero e da Vagina
+N94;Dor e Outras Afec«ı«Êes Associadas Com os «?rg«úos Genitais Femininos e Com o Ciclo Menstrual
+N95;Transtornos da Menopausa e da Perimenopausa
+N96;Abortamento Habitual
+N97;Infertilidade Feminina
+N98;Complica«ı«Êes Associadas «ˇ Fecunda«ı«úo Artificial
+N99;Transtornos do Trato Geniturin«≠rio P«¸s-procedimentos N«úo Classificados em Outra Parte
+O00;Gravidez Ect«¸pica
+O01;Mola Hidatiforme
+O02;Outros Produtos Anormais da Concep«ı«úo
+O03;Aborto Espont«Ωneo
+O04;Aborto Por Raz«Êes M«∏dicas e Legais
+O05;Outros Tipos de Aborto
+O06;Aborto N«úo Especificado
+O07;Falha de Tentativa de Aborto
+O08;Complica«ı«Êes Conseq«¨entes a Aborto e Gravidez Ect«¸pica ou Molar
+O10;Hipertens«úo Pr«∏-existente Complicando a Gravidez, o Parto e o Puerp«∏rio
+O11;Dist«ßrbio Hipertensivo Pr«∏-existente Com Protein«ßria Superposta
+O12;Edema e Protein«ßria Gestacionais (induzidos Pela Gravidez), Sem Hipertens«úo
+O13;Hipertens«úo Gestacional (induzida Pela Gravidez) Sem Protein«ßria Significativa
+O14;Hipertens«úo Gestacional (induzida Pela Gravidez) Com Protein«ßria Significativa
+O15;Ecl«Ωmpsia
+O16;Hipertens«úo Materna N«úo Especificada
+O20;Hemorragia do In«cio da Gravidez
+O21;V«Ômitos Excessivos na Gravidez
+O22;Complica«ı«Êes Venosas na Gravidez
+O23;Infec«ı«Êes do Trato Geniturin«≠rio na Gravidez
+O24;Diabetes Mellitus na Gravidez
+O25;Desnutri«ı«úo na Gravidez
+O26;Assist«¶ncia Materna Por Outras Complica«ı«Êes Ligadas Predominantemente «ˇ Gravidez
+O28;"Achados Anormais do Rastreamento (""screening"") Antenatal da M«úe"
+O29;Complica«ı«Êes de Anestesia Administrada Durante a Gravidez
+O30;Gesta«ı«úo M«ßltipla
+O31;Complica«ı«Êes Espec«ficas de Gesta«ı«úo M«ßltipla
+O32;Assist«¶ncia Prestada «ˇ M«úe Por Motivo de Apresenta«ı«úo Anormal, Conhecida ou Suspeitada, do Feto
+O33;Assist«¶ncia Prestada «ˇ M«úe Por Uma Despropor«ı«úo Conhecida ou Suspeita
+O34;Assist«¶ncia Prestada «ˇ M«úe Por Anormalidade, Conhecida ou Suspeita, Dos «?rg«úos P«∏lvicos Maternos
+O35;Assist«¶ncia Prestada «ˇ M«úe Por Anormalidade e Les«úo Fetais, Conhecidas ou Suspeitadas
+O36;Assist«¶ncia Prestada «ˇ M«úe Por Outros Problemas Fetais Conhecidos ou Suspeitados
+O40;Polihidr«Ωmnio
+O41;Outros Transtornos Das Membranas e do L«quido Amni«¸tico
+O42;Ruptura Prematura de Membranas
+O43;Transtornos da Placenta
+O44;Placenta Pr«∏via
+O45;Descolamento Prematuro da Placenta (abruptio Placentae)
+O46;Hemorragia Anteparto N«úo Classificada em Outra Parte
+O47;Falso Trabalho de Parto
+O48;Gravidez Prolongada
+O60;Trabalho de Parto Pr«∏-termo
+O61;Falha na Indu«ı«úo do Trabalho de Parto
+O62;Anormalidades da Contra«ı«úo Uterina
+O63;Trabalho de Parto Prolongado
+O64;Obstru«ı«úo do Trabalho de Parto Devida «ˇ M«≠-posi«ı«úo ou M«≠-apresenta«ı«úo do Feto
+O65;Obstru«ı«úo do Trabalho de Parto Devida a Anormalidade P«∏lvica da M«úe
+O66;Outras Formas de Obstru«ı«úo do Trabalho de Parto
+O67;Trabalho de Parto e Parto Complicados Por Hemorragia Intraparto N«úo Classificados em Outra Parte
+O68;Trabalho de Parto e Parto Complicados Por Sofrimento Fetal
+O69;Trabalho de Parto e Parto Complicados Por Anormalidade do Cord«úo Umbilical
+O70;Lacera«ı«úo do Per«neo Durante o Parto
+O71;Outros Traumatismos Obst«∏tricos
+O72;Hemorragia P«¸s-parto
+O73;Reten«ı«úo da Placenta e Das Membranas, Sem Hemorragias
+O74;Complica«ı«Êes de Anestesia Durante o Trabalho de Parto e o Parto
+O75;Outras Complica«ı«Êes do Trabalho de Parto e do Parto N«úo Classificadas em Outra Parte
+O80;Parto «?nico Espont«Ωneo
+O81;Parto «?nico Por F«¸rceps ou V«≠cuo-extrator
+O82;Parto «?nico Por Cesariana
+O83;Outros Tipos de Parto «?nico Assistido
+O84;Parto M«ßltiplo
+O85;Infec«ı«úo Puerperal
+O86;Outras Infec«ı«Êes Puerperais
+O87;Complica«ı«Êes Venosas no Puerp«∏rio
+O88;Embolia de Origem Obst«∏trica
+O89;Complica«ı«Êes da Anestesia Administrada Durante o Puerp«∏rio
+O90;Complica«ı«Êes do Puerp«∏rio N«úo Classificadas em Outra Parte
+O91;Infec«ı«Êes Mam«≠rias Associadas ao Parto
+O92;Outras Afec«ı«Êes da Mama e da Lacta«ı«úo Associadas ao Parto
+O94;Seq«¨elas de Complica«ı«Êes da Gravidez, Parto e Puerp«∏rio
+O95;Morte Obst«∏trica de Causa N«úo Especificada
+O96;Morte, Por Qualquer Causa Obst«∏trica, Que Ocorre Mais de 42 Dias, Mas Menos de 1 Ano, Ap«¸s o Parto
+O97;Morte Por Seq«¨elas de Causas Obst«∏tricas Diretas
+O98;Doen«ıas Infecciosas e Parasit«≠rias Maternas Classific«≠veis em Outra Parte Mas Que Compliquem a Gravidez, o Parto e o Puerp«∏rio
+O99;Outras Doen«ıas da M«úe, Classificadas em Outra Parte, Mas Que Complicam a Gravidez o Parto e o Puerp«∏rio
+P00;Feto e Rec«∏m-nascido Afetados Por Afec«ı«Êes Maternas, N«úo Obrigatoriamente Relacionadas Com a Gravidez Atual
+P01;Feto e Rec«∏m-nascido Afetados Por Complica«ı«Êes Maternas da Gravidez
+P02;Feto e Rec«∏m-nascido Afetados Por Complica«ı«Êes da Placenta, do Cord«úo Umbilical e Das Membranas
+P03;Feto e Rec«∏m-nascido Afetados Por Outras Complica«ı«Êes do Trabalho de Parto e do Parto
+P04;Feto e Rec«∏m-nascido Afetados Por Influ«¶ncias Nocivas Transmitidas ao Feto Via Placenta ou Leite Materno
+P05;Crescimento Fetal Retardado e Desnutri«ı«úo Fetal
+P07;Transtornos Relacionados Com a Gesta«ı«úo de Curta Dura«ı«úo e Peso Baixo ao Nascer N«úo Classificados em Outra Parte
+P08;Transtornos Relacionados Com a Gesta«ı«úo Prolongada e Peso Elevado ao Nascer
+P10;Lacera«ı«úo Intracraniana e Hemorragia Devidas a Traumatismo de Parto
+P11;Outros Traumatismos de Parto do Sistema Nervoso Central
+P12;Les«úo do Couro Cabeludo Devida a Traumatismo de Parto
+P13;Les«Êes do Esqueleto Devidas a Traumatismo de Parto
+P14;Les«Êes ao Nascer do Sistema Nervoso Perif«∏rico
+P15;Outros Traumatismos de Parto
+P20;Hip«¸xia Intra-uterina
+P21;Asfixia ao Nascer
+P22;Desconforto (ang«ßstia) Respirat«¸rio(a) do Rec«∏m-nascido
+P23;Pneumonia Cong«¶nita
+P24;S«ndrome de Aspira«ı«úo Neonatal
+P25;Enfisema Intersticial e Afec«ı«Êes Correlatas Originadas no Per«odo Perinatal
+P26;Hemorragia Pulmonar Originada no Per«odo Perinatal
+P27;Doen«ıa Respirat«¸ria Cr«Ônica Originada no Per«odo Perinatal
+P28;Outras Afec«ı«Êes Respirat«¸rias Originadas no Per«odo Perinatal
+P29;Transtornos Cardiovasculares Originados no Per«odo Perinatal
+P35;Doen«ıas Virais Cong«¶nitas
+P36;Septicemia Bacteriana do Rec«∏m-nascido
+P37;Outras Doen«ıas Infecciosas e Parasit«≠rias Cong«¶nitas
+P38;Onfalite do Rec«∏m-nascido Com ou Sem Hemorragia Leve
+P39;Outras Infec«ı«Êes Espec«ficas do Per«odo Perinatal
+P50;Perda Sang«¨«nea Fetal
+P51;Hemorragia Umbilical do Rec«∏m-nascido
+P52;Hemorragia Intracraniana N«úo-traum«≠tica do Feto e do Rec«∏m-nascido
+P53;Doen«ıa Hemorr«≠gica do Feto e do Rec«∏m-nascido
+P54;Outras Hemorragias Neonatais
+P55;Doen«ıa Hemol«tica do Feto e do Rec«∏m-nascido
+P56;Hidropsia Fetal Devida a Doen«ıa Hemol«tica
+P57;Kernicterus
+P58;Icter«cia Neonatal Devida a Outras Hem«¸lises Excessivas
+P59;Icter«cia Neonatal Devida a Outras Causas e «ˇs N«úo Especificadas
+P60;Coagula«ı«úo Intravascular Disseminada do Feto e do Rec«∏m-nascido
+P61;Outros Transtornos Hematol«¸gicos Perinatais
+P70;Transtornos Transit«¸rios do Metabolismo Dos Carboidratos Espec«ficos do Feto e do Rec«∏m-nascido
+P71;Transtornos Transit«¸rios do Metabolismo do C«≠lcio e do Magn«∏sio do Per«odo Neonatal
+P72;Outros Transtornos End«¸crinos Transit«¸rios do Per«odo Neonatal
+P74;Outros Dist«ßrbios Eletrol«ticos e Metab«¸licos Transit«¸rios do Per«odo Neonatal
+P75;«çleo Meconial
+P76;Outras Obstru«ı«Êes Intestinais do Rec«∏m-nascido
+P77;Enterocolite Necrotizante do Feto e do Rec«∏m-nascido
+P78;Outros Transtornos do Aparelho Digestivo do Per«odo Perinatal
+P80;Hipotermia do Rec«∏m-nascido
+P81;Outros Dist«ßrbios da Regula«ı«úo T«∏rmica do Rec«∏m-nascido
+P83;Outras Afec«ı«Êes Comprometendo o Tegumento Espec«ficas do Feto e do Rec«∏m-nascido
+P90;Convuls«Êes do Rec«∏m-nascido
+P91;Outros Dist«ßrbios da Fun«ı«úo Cerebral do Rec«∏m-nascido
+P92;Problemas de Alimenta«ı«úo do Rec«∏m-nascido
+P93;Rea«ı«Êes e Intoxica«ı«Êes Devidas a Drogas Administradas ao Feto e ao Rec«∏m-nascido
+P94;Transtornos do T«Ônus Muscular do Rec«∏m-nascido
+P95;Morte Fetal de Causa N«úo Especificada
+P96;Outras Afec«ı«Êes Originadas no Per«odo Perinatal
+Q00;Anencefalia e Malforma«ı«Êes Similares
+Q01;Encefalocele
+Q02;Microcefalia
+Q03;Hidrocefalia Cong«¶nita
+Q04;Outras Malforma«ı«Êes Cong«¶nitas do C«∏rebro
+Q05;Espinha B«fida
+Q06;Outras Malforma«ı«Êes Cong«¶nitas da Medula Espinhal
+Q07;Outras Malforma«ı«Êes Cong«¶nitas do Sistema Nervoso
+Q10;Malforma«ı«Êes Cong«¶nitas Das P«≠lpebras, do Aparelho Lacrimal e da «?rbita
+Q11;Anoftalmia, Microftalmia e Macroftalmia
+Q12;Malforma«ı«Êes Cong«¶nitas do Cristalino
+Q13;Malforma«ı«Êes Cong«¶nitas da C«Ωmara Anterior do Olho
+Q14;Malforma«ı«Êes Cong«¶nitas da C«Ωmara Posterior do Olho
+Q15;Outras Malforma«ı«Êes Cong«¶nitas do Olho
+Q16;Malforma«ı«Êes Cong«¶nitas do Ouvido Causando Comprometimento da Audi«ı«úo
+Q17;Outras Malforma«ı«Êes Cong«¶nitas da Orelha
+Q18;Outras Malforma«ı«Êes Cong«¶nitas da Face e do Pesco«ıo
+Q20;Malforma«ı«Êes Cong«¶nitas Das C«Ωmaras e Das Comunica«ı«Êes Card«acas
+Q21;Malforma«ı«Êes Cong«¶nitas Dos Septos Card«acos
+Q22;Malforma«ı«Êes Cong«¶nitas Das Valvas Pulmonar e Tric«ßspide
+Q23;Malforma«ı«Êes Cong«¶nitas Das Valvas A«¸rtica e Mitral
+Q24;Outras Malforma«ı«Êes Cong«¶nitas do Cora«ı«úo
+Q25;Malforma«ı«Êes Cong«¶nitas Das Grandes Art«∏rias
+Q26;Malforma«ı«Êes Cong«¶nitas Das Grandes Veias
+Q27;Outras Malforma«ı«Êes Cong«¶nitas do Sistema Vascular Perif«∏rico
+Q28;Outras Malforma«ı«Êes Cong«¶nitas do Aparelho Circulat«¸rio
+Q30;Malforma«ı«úo Cong«¶nita do Nariz
+Q31;Malforma«ı«Êes Cong«¶nitas da Laringe
+Q32;Malforma«ı«Êes Cong«¶nitas da Traqu«∏ia e Dos Br«Ônquios
+Q33;Malforma«ı«Êes Cong«¶nitas do Pulm«úo
+Q34;Outras Malforma«ı«Êes Cong«¶nitas do Aparelho Respirat«¸rio
+Q35;Fenda Palatina
+Q36;Fenda Labial
+Q37;Fenda Labial Com Fenda Palatina
+Q38;Outras Malforma«ı«Êes Cong«¶nitas da L«ngua, da Boca e da Faringe
+Q39;Malforma«ı«Êes Cong«¶nitas do Es«Ôfago
+Q40;Outras Malforma«ı«Êes Cong«¶nitas do Trato Digestivo Superior
+Q41;Aus«¶ncia, Atresia e Estenose Cong«¶nita do Intestino Delgado
+Q42;Aus«¶ncia, Atresia e Estenose Cong«¶nita do C«¸lon
+Q43;Outras Malforma«ı«Êes Cong«¶nitas do Intestino
+Q44;Malforma«ı«Êes Cong«¶nitas da Ves«cula Biliar, Das Vias Biliares e do F«gado
+Q45;Outras Malforma«ı«Êes Cong«¶nitas do Aparelho Digestivo
+Q50;Malforma«ı«Êes Cong«¶nitas Dos Ov«≠rios, Das Trompas de Fal«¸pio e Dos Ligamentos Largos
+Q51;Malforma«ı«Êes Cong«¶nitas do «?tero e do Colo do «?tero
+Q52;Outras Malforma«ı«Êes Cong«¶nitas Dos «?rg«úos Genitais Femininos
+Q53;Test«culo N«úo-descido
+Q54;Hiposp«≠dias
+Q55;Outras Malforma«ı«Êes Cong«¶nitas Dos «?rg«úos Genitais Masculinos
+Q56;Sexo Indeterminado e Pseudo-hermafroditismo
+Q60;Agenesia Renal e Outros Defeitos de Redu«ı«úo do Rim
+Q61;Doen«ıas C«sticas do Rim
+Q62;Anomalias Cong«¶nitas Obstrutivas da Pelve Renal e Malforma«ı«Êes Cong«¶nitas do Ureter
+Q63;Outras Malforma«ı«Êes Cong«¶nitas do Rim
+Q64;Outras Malforma«ı«Êes Cong«¶nitas do Aparelho Urin«≠rio
+Q65;Malforma«ı«Êes Cong«¶nitas do Quadril
+Q66;Deformidades Cong«¶nitas do p«∏
+Q67;Deformidades Osteomusculares Cong«¶nitas da Cabe«ıa, da Face, da Coluna e do T«¸rax
+Q68;Outras Deformidades Osteomusculares Cong«¶nitas
+Q69;Polidactilia
+Q70;Sindactilia
+Q71;Defeitos, Por Redu«ı«úo, do Membro Superior
+Q72;Defeitos, Por Redu«ı«úo, do Membro Inferior
+Q73;Defeitos Por Redu«ı«úo de Membro N«úo Especificado
+Q74;Outras Malforma«ı«Êes Cong«¶nitas Dos Membros
+Q75;Outras Malforma«ı«Êes Cong«¶nitas Dos Ossos do Cr«Ωnio e da Face
+Q76;Malforma«ı«Êes Cong«¶nitas da Coluna Vertebral e Dos Ossos do T«¸rax
+Q77;Osteocondrodisplasia Com Anomalias de Crescimento Dos Ossos Longos e da Coluna Vertebral
+Q78;Outras Osteocondrodisplasias
+Q79;Malforma«ı«Êes Cong«¶nitas do Sistema Osteomuscular N«úo Classificadas em Outra Parte
+Q80;Ictiose Cong«¶nita
+Q81;Epiderm«¸lise Bolhosa
+Q82;Outras Malforma«ı«Êes Cong«¶nitas da Pele
+Q83;Malforma«ı«Êes Cong«¶nitas da Mama
+Q84;Outras Malforma«ı«Êes Cong«¶nitas do Tegumento
+Q85;Facomatoses N«úo Classificadas em Outra Parte
+Q86;S«ndromes Com Malforma«ı«Êes Cong«¶nitas Devidas a Causas Ex«¸genas Conhecidas, N«úo Classificadas em Outra Parte
+Q87;Outras S«ndromes Com Malforma«ı«Êes Cong«¶nitas Que Acometem M«ßltiplos Sistemas
+Q89;Outras Malforma«ı«Êes Cong«¶nitas N«úo Classificadas em Outra Parte
+Q90;S«ndrome de Down
+Q91;S«ndrome de Edwards e S«ndrome de Patau
+Q92;Outras Trissomias e Trissomias Parciais Dos Autossomos, N«úo Classificadas em Outra Parte
+Q93;Monossomias e Dele«ı«Êes Dos Autossomos, N«úo Classificadas em Outra Parte
+Q95;Rearranjos Equilibrados e Marcadores Estruturais, N«úo Classificados em Outra Parte
+Q96;S«ndrome de Turner
+Q97;Outras Anomalias Dos Cromossomos Sexuais, Fen«¸tipo Feminino, N«úo Classificadas em Outra Parte
+Q98;Outras Anomalias Dos Cromossomos Sexuais, Fen«¸tipo Masculino, N«úo Classificadas em Outra Parte
+Q99;Outras Anomalias Dos Cromossomos, N«úo Classificadas em Outra Parte
+R00;Anormalidades do Batimento Card«aco
+R01;Sopros e Outros Ru«dos Card«acos
+R02;Gangrena N«úo Classificada em Outra Parte
+R03;Valor Anormal da Press«úo Arterial Sem Diagn«¸stico
+R04;Hemorragia Das Vias Respirat«¸rias
+R05;Tosse
+R06;Anormalidades da Respira«ı«úo
+R07;Dor de Garganta e no Peito
+R09;Outros Sintomas e Sinais Relativos Aos Aparelhos Circulat«¸rio e Respirat«¸rio
+R10;Dor Abdominal e P«∏lvica
+R11;N«≠usea e V«Ômitos
+R12;Pirose
+R13;Disfagia
+R14;Flatul«¶ncia e Afec«ı«Êes Correlatas
+R15;Incontin«¶ncia Fecal
+R16;Hepatomegalia e Esplenomegalia N«úo Classificadas em Outra Parte
+R17;Icter«cia N«úo Especificada
+R18;Ascite
+R19;Outros Sintomas e Sinais Relativos ao Aparelho Digestivo e ao Abdome
+R20;Dist«ßrbios da Sensibilidade Cut«Ωnea
+R21;Eritema e Outras Erup«ı«Êes Cut«Ωneas N«úo Especificadas
+R22;Tumefa«ı«úo, Massa ou Tumora«ı«úo Localizadas da Pele e do Tecido Subcut«Ωneo
+R23;Outras Altera«ı«Êes Cut«Ωneas
+R25;Movimentos Involunt«≠rios Anormais
+R26;Anormalidades da Marcha e da Mobilidade
+R27;Outros Dist«ßrbios da Coordena«ı«úo
+R29;Outros Sintomas e Sinais Relativos Aos Sistemas Nervoso e Osteomuscular
+R30;Dor Associada «ˇ Mic«ı«úo
+R31;Hemat«ßria N«úo Especificada
+R32;Incontin«¶ncia Urin«≠ria N«úo Especificada
+R33;Reten«ı«úo Urin«≠ria
+R34;An«ßria e Olig«ßria
+R35;Poli«ßria
+R36;Secre«ı«úo Uretral
+R39;Outros Sintomas e Sinais Relativos ao Aparelho Urin«≠rio
+R40;Sonol«¶ncia, Estupor e Coma
+R41;Outros Sintomas e Sinais Relativos «ˇ Fun«ı«úo Cognitiva e «ˇ Consci«¶ncia
+R42;Tontura e Instabilidade
+R43;Dist«ßrbios do Olfato e do Paladar
+R44;Outros Sintomas e Sinais Relativos «ˇs Sensa«ı«Êes e «ˇs Percep«ı«Êes Gerais
+R45;Sintomas e Sinais Relativos ao Estado Emocional
+R46;Sintomas e Sinais Relativos «ˇ Apar«¶ncia e ao Comportamento
+R47;Dist«ßrbios da Fala N«úo Classificados em Outra Parte
+R48;Dislexia e Outras Disfun«ı«Êes Simb«¸licas, N«úo Classificadas em Outra Parte
+R49;Dist«ßrbios da Voz
+R50;Febre de Origem Desconhecida e de Outras Origens
+R51;Cefal«∏ia
+R52;Dor N«úo Classificada em Outra Parte
+R53;Mal Estar, Fadiga
+R54;Senilidade
+R55;S«ncope e Colapso
+R56;Convuls«Êes, N«úo Classificadas em Outra Parte
+R57;Choque N«úo Classificado em Outra Parte
+R58;Hemorragia N«úo Classificada em Outra Parte
+R59;Aumento de Volume Dos G«Ωnglios Linf«≠ticos
+R60;Edema N«úo Classificado em Outra Parte
+R61;Hiperidrose
+R62;Retardo do Desenvolvimento Fisiol«¸gico Normal
+R63;Sintomas e Sinais Relativos «ˇ Ingest«úo de Alimentos e L«quidos
+R64;Caquexia
+R68;Outros Sintomas e Sinais Gerais
+R69;Causas Desconhecidas e N«úo Especificadas de Morbidade
+R70;Velocidade de Hemossedimenta«ı«úo Elevada e Outras Anormalidades da Viscosidade Plasm«≠tica
+R71;Anormalidade Das Hem«≠cias
+R72;Anormalidade Dos Leuc«¸citos N«úo Classificada em Outra Parte
+R73;Aumento da Glicemia
+R74;Anormalidades Dos N«veis de Enzimas S«∏ricas
+R75;Evid«¶ncia Laboratorial do V«rus da Imunodefici«¶ncia Humana (HIV)
+R76;Outros Achados Imunol«¸gicos Anormais no Soro
+R77;Outras Anormalidades Das Prote«nas Plasm«≠ticas
+R78;Presen«ıa de Drogas e de Outras Subst«Ωncias Normalmente N«úo Encontradas no Sangue
+R79;Outros Achados Anormais de Exames Qu«micos do Sangue
+R80;Protein«ßria Isolada
+R81;Glicos«ßria
+R82;Outros Achados Anormais na Urina
+R83;Achados Anormais no L«quido Cefalorraquidiano
+R84;Achados Anormais de Material Proveniente Dos «?rg«úos Respirat«¸rios e do T«¸rax
+R85;Achados Anormais de Material Proveniente Dos «?rg«úos Digestivos e da Cavidade Abdominal
+R86;Achados Anormais de Material Proveniente Dos «?rg«úos Genitais Masculinos
+R87;Achados Anormais de Material Proveniente Dos «?rg«úos Genitais Femininos
+R89;Achados Anormais de Material Proveniente de Outros «?rg«úos, Aparelhos, Sistemas e Tecidos
+R90;Resultados Anormais de Exames Para Diagn«¸stico Por Imagem do Sistema Nervoso Central
+R91;Achados Anormais, de Exames Para Diagn«¸stico Por Imagem, do Pulm«úo
+R92;Achados Anormais, de Exames Para Diagn«¸stico Por Imagem, da Mama
+R93;Achados Anormais de Exames Para Diagn«¸stico Por Imagem de Outras Estruturas do Corpo
+R94;Resultados Anormais de Estudos de Fun«ı«úo
+R95;S«ndrome da Morte S«ßbita na Inf«Ωncia
+R96;Outras Mortes S«ßbitas de Causa Desconhecida
+R98;Morte Sem Assist«¶ncia
+R99;Outras Causas Mal Definidas e as N«úo Especificadas de Mortalidade
+S00;Traumatismo Superficial da Cabe«ıa
+S01;Ferimento da Cabe«ıa
+S02;Fratura do Cr«Ωnio e Dos Ossos da Face
+S03;Luxa«ı«úo, Entorse ou Distens«úo Das Articula«ı«Êes e Dos Ligamentos da Cabe«ıa
+S04;Traumatismo Dos Nervos Cranianos
+S05;Traumatismo do Olho e da «?rbita Ocular
+S06;Traumatismo Intracraniano
+S07;Les«Êes Por Esmagamento da Cabe«ıa
+S08;Amputa«ı«úo Traum«≠tica de Parte da Cabe«ıa
+S09;Outros Traumatismos da Cabe«ıa e os N«úo Especificados
+S10;Traumatismo Superficial do Pesco«ıo
+S11;Ferimento do Pesco«ıo
+S12;Fratura do Pesco«ıo
+S13;Luxa«ı«úo, Entorse ou Distens«úo Das Articula«ı«Êes e Dos Ligamentos do Pesco«ıo
+S14;Traumatismo de Nervos e da Medula Espinhal ao N«vel Cervical
+S15;Traumatismo Dos Vasos Sang«¨«neos ao N«vel do Pesco«ıo
+S16;Traumatismo de Tend«Êes e de M«ßsculos do Pesco«ıo
+S17;Les«Êes Por Esmagamento do Pesco«ıo
+S18;Amputa«ı«úo Traum«≠tica ao N«vel do Pesco«ıo
+S19;Outros Traumatismos do Pesco«ıo e os N«úo Especificados
+S20;Traumatismo Superficial do T«¸rax
+S21;Ferimento do T«¸rax
+S22;Fratura de Costela(s), Esterno e Coluna Tor«≠cica
+S23;Luxa«ı«úo, Entorse e Distens«úo de Articula«ı«Êes e Dos Ligamentos do T«¸rax
+S24;Traumatismos de Nervos e da Medula Espinhal ao N«vel do T«¸rax
+S25;Traumatismo de Vasos Sang«¨«neos do T«¸rax
+S26;Traumatismo do Cora«ı«úo
+S27;Traumatismo de Outros «?rg«úos Intrator«≠cicos e Dos N«úo Especificados
+S28;Les«úo Por Esmagamento do T«¸rax e Amputa«ı«úo Traum«≠tica de Parte do T«¸rax
+S29;Outros Traumatismos do T«¸rax e os N«úo Especificados
+S30;Traumatismo Superficial do Abdome, do Dorso e da Pelve
+S31;Ferimento do Abdome, do Dorso e da Pelve
+S32;Fratura da Coluna Lombar e da Pelve
+S33;Luxa«ı«úo, Entorse ou Distens«úo Das Articula«ı«Êes e Dos Ligamentos da Coluna Lombar e da Pelve
+S34;Traumatismo Dos Nervos e da Medula Lombar ao N«vel do Abdome, do Dorso e da Pelve
+S35;Traumatismo de Vasos Sang«¨«neos ao N«vel do Abdome, do Dorso e da Pelve
+S36;Traumatismo de «?rg«úos Intra-abdominais
+S37;Traumatismo do Aparelho Urin«≠rio e de «?rg«úos P«∏lvicos
+S38;Les«úo Por Esmagamento e Amputa«ı«úo Traum«≠tica de Parte do Abdome, do Dorso e da Pelve
+S39;Outros Traumatismos e os N«úo Especificados do Abdome, do Dorso e da Pelve
+S40;Traumatismo Superficial do Ombro e do Bra«ıo
+S41;Ferimento do Ombro e do Bra«ıo
+S42;Fratura do Ombro e do Bra«ıo
+S43;Luxa«ı«úo, Entorse e Distens«úo Das Articula«ı«Êes e Dos Ligamentos da Cintura Escapular
+S44;Traumatismo de Nervos ao N«vel do Ombro e do Bra«ıo
+S45;Traumatismo Dos Vasos Sang«¨«neos ao N«vel do Ombro e do Bra«ıo
+S46;Traumatismo de Tend«úo e M«ßsculo ao N«vel do Ombro e do Bra«ıo
+S47;Les«úo Por Esmagamento do Ombro e do Bra«ıo
+S48;Amputa«ı«úo Traum«≠tica do Ombro e do Bra«ıo
+S49;Outros Traumatismos e os N«úo Especificados do Ombro e do Bra«ıo
+S50;Traumatismo Superficial do Cotovelo e do Antebra«ıo
+S51;Ferimento do Antebra«ıo
+S52;Fratura do Antebra«ıo
+S53;Luxa«ı«úo, Entorse e Distens«úo Das Articula«ı«Êes e Dos Ligamentos do Cotovelo
+S54;Traumatismo de Nervos ao N«vel do Antebra«ıo
+S55;Traumatismo de Vasos Sang«¨«neos ao N«vel do Antebra«ıo
+S56;Traumatismo do M«ßsculo e Tend«úo ao N«vel do Antebra«ıo
+S57;Les«úo Por Esmagamento do Antebra«ıo
+S58;Amputa«ı«úo Traum«≠tica do Cotovelo e do Antebra«ıo
+S59;Outros Traumatismos do Antebra«ıo e os N«úo Especificados
+S60;Traumatismo Superficial do Punho e da M«úo
+S61;Ferimento do Punho e da M«úo
+S62;Fratura ao N«vel do Punho e da M«úo
+S63;Luxa«ı«úo, Entorse e Distens«úo Das Articula«ı«Êes e Dos Ligamentos ao N«vel do Punho e da M«úo
+S64;Traumatismo de Nervos ao N«vel do Punho e da M«úo
+S65;Traumatismo de Vasos Sang«¨«neos ao N«vel do Punho e da M«úo
+S66;Traumatismo de M«ßsculo e Tend«úo ao N«vel do Punho e da M«úo
+S67;Les«úo Por Esmagamento do Punho e da M«úo
+S68;Amputa«ı«úo Traum«≠tica ao N«vel do Punho e da M«úo
+S69;Outros Traumatismos e os N«úo Especificados do Punho e da M«úo
+S70;Traumatismo Superficial do Quadril e da Coxa
+S71;Ferimento do Quadril e da Coxa
+S72;Fratura do F«¶mur
+S73;Luxa«ı«úo, Entorse e Distens«úo da Articula«ı«úo e Dos Ligamentos do Quadril
+S74;Traumatismo de Nervos ao N«vel do Quadril e da Coxa
+S75;Traumatismo de Vasos Sang«¨«neos ao N«vel do Quadril e da Coxa
+S76;Traumatismo de M«ßsculo e de Tend«úo ao N«vel do Quadril e da Coxa
+S77;Les«úo Por Esmagamento do Quadril e da Coxa
+S78;Amputa«ı«úo Traum«≠tica do Quadril e da Coxa
+S79;Outros Traumatismos e os N«úo Especificados do Quadril e da Coxa
+S80;Traumatismo Superficial da Perna
+S81;Ferimento da Perna
+S82;Fratura da Perna, Incluindo Tornozelo
+S83;Luxa«ı«úo, Entorse e Distens«úo Das Articula«ı«Êes e Dos Ligamentos do Joelho
+S84;Traumatismo de Nervos Perif«∏ricos da Perna
+S85;Traumatismo de Vasos Sang«¨«neos da Perna
+S86;Traumatismos de M«ßsculo e de Tend«úo ao N«vel da Perna
+S87;Traumatismo Por Esmagamento da Perna
+S88;Amputa«ı«úo Traum«≠tica da Perna
+S89;Outros Traumatismos e os N«úo Especificados da Perna
+S90;Traumatismo Superficial do Tornozelo e do p«∏
+S91;Ferimentos do Tornozelo e do p«∏
+S92;Fratura do p«∏ (exceto do Tornozelo)
+S93;Luxa«ı«úo, Entorse e Distens«úo Das Articula«ı«Êes e Dos Ligamentos ao N«vel do Tornozelo e do p«∏
+S94;Traumatismo Dos Nervos ao N«vel do Tornozelo e do p«∏
+S95;Traumatismo de Vasos Sang«¨«neos ao N«vel do Tornozelo e do p«∏
+S96;Traumatismos do M«ßsculo e Tend«úo ao N«vel do Tornozelo e do p«∏
+S97;Les«úo Por Esmagamento do Tornozelo e do p«∏
+S98;Amputa«ı«úo Traum«≠tica do Tornozelo e do p«∏
+S99;Outros Traumatismos e os N«úo Especificados do Tornozelo e do p«∏
+T00;Traumatismos Superficiais Envolvendo M«ßltiplas Regi«Êes do Corpo
+T01;Ferimentos Envolvendo M«ßltiplas Regi«Êes do Corpo
+T02;Fraturas Envolvendo M«ßltiplas Regi«Êes do Corpo
+T03;Luxa«ı«Êes, Entorses e Distens«Êes Envolvendo Regi«Êes M«ßltiplas do Corpo
+T04;Traumatismos Por Esmagamento Envolvendo M«ßltiplas Regi«Êes do Corpo
+T05;Amputa«ı«Êes Traum«≠ticas Envolvendo M«ßltiplas Regi«Êes do Corpo
+T06;Outros Traumatismos Envolvendo Regi«Êes M«ßltiplas do Corpo, N«úo Classificados em Outra Parte
+T07;Traumatismos M«ßltiplos N«úo Especificados
+T08;Fratura da Coluna, N«vel N«úo Especificado
+T09;Outros Traumatismos de Coluna e Tronco, N«vel N«úo Especificado
+T10;Fratura do Membro Superior, N«vel N«úo Especificado
+T11;Outros Traumatismos de Membro Superior, N«vel N«úo Especificado
+T12;Fratura do Membro Inferior, N«vel N«úo Especificado
+T13;Outros Traumatismos de Membro Inferior, N«vel N«úo Especificado
+T14;Traumatismo de Regi«úo N«úo Especificada do Corpo
+T15;Corpo Estranho na Parte Externa do Olho
+T16;Corpo Estranho no Ouvido
+T17;Corpo Estranho no Trato Respirat«¸rio
+T18;Corpo Estranho no Aparelho Digestivo
+T19;Corpo Estranho no Trato Geniturin«≠rio
+T20;Queimadura e Corros«úo da Cabe«ıa e Pesco«ıo
+T21;Queimadura e Corros«úo do Tronco
+T22;Queimadura e Corros«úo do Ombro e Membro Superior, Exceto Punho e M«úo
+T23;Queimadura e Corros«úo do Punho e da M«úo
+T24;Queimadura e Corros«úo do Quadril e Membro Inferior, Exceto Tornozelo e do p«∏
+T25;Queimadura e Corros«úo do Tornozelo e do p«∏
+T26;Queimadura e Corros«úo Limitadas ao Olho e Seus Anexos
+T27;Queimadura e Corros«úo do Trato Respirat«¸rio
+T28;Queimadura e Corros«úo de Outros «?rg«úos Internos
+T29;Queimaduras e Corros«Êes de M«ßltiplas Regi«Êes do Corpo
+T30;Queimadura e Corros«úo, Parte N«úo Especificada do Corpo
+T31;Queimaduras Classificadas Segundo a Extens«úo da Superf«cie Corporal Atingida
+T32;Corros«Êes Classificadas Segundo a Extens«úo da Superf«cie Corporal Atingida
+T33;Geladura Superficial
+T34;Geladura Com Necrose de Tecidos
+T35;Geladura de M«ßltiplas Partes do Corpo e Das N«úo Especificadas
+T36;Intoxica«ı«úo Por Antibi«¸ticos Sist«¶micos
+T37;Intoxica«ı«úo Por Outras Subst«Ωncias Antiinfecciosas ou Antiparasit«≠rias Sist«¶micas
+T38;Intoxica«ı«úo Por Horm«Ônios, Seus Substitutos Sint«∏ticos e Seus Antagonistas N«úo Classificados em Outra Parte
+T39;Intoxica«ı«úo Por Analg«∏sicos, Antipir«∏ticos e Anti-reum«≠ticos N«úo-opi«≠ceos
+T40;Intoxica«ı«úo Por Narc«¸ticos e Psicodisl«∏pticos (alucin«¸genos)
+T41;Intoxica«ı«úo Por Anest«∏sicos e Gases Terap«¶uticos
+T42;Intoxica«ı«úo Por Antiepil«∏pticos, Sedativos-hipn«¸ticos e Antiparkinsonianos
+T43;Intoxica«ı«úo Por Drogas Psicotr«¸picas N«úo Classificadas em Outra Parte
+T44;Intoxica«ı«úo Por Drogas Que Afetam Principalmente o Sistema Nervoso Aut«Ônomo
+T45;Intoxica«ı«úo Por Subst«Ωncias de A«ı«úo Essencialmente Sist«¶mica e Subst«Ωncias Hematol«¸gicas, N«úo Classificadas em Outra Parte
+T46;Intoxica«ı«úo Por Subst«Ωncias Que Atuam Primariamente Sobre o Aparelho Circulat«¸rio
+T47;Intoxica«ı«úo Por Subst«Ωncias Que Atuam Primariamente Sobre o Aparelho Gastrointestinal
+T48;Intoxica«ı«úo Por Subst«Ωncias Que Atuam Primariamente Sobre os M«ßsculos Lisos e Esquel«∏ticos e Sobre o Aparelho Respirat«¸rio
+T49;Intoxica«ı«úo Por Subst«Ωncias de Uso T«¸pico Que Atuam Primariamente Sobre a Pele e as Mucosas e Por Medicamentos Utilizados em Oftalmologia, Otorrinolaringologia e Odontologia
+T50;Intoxica«ı«úo Por Diur«∏ticos e Outras Drogas, Medicamentos e Subst«Ωncias Biol«¸gicas e as N«úo Especificadas
+T51;Efeito T«¸xico do «Ålcool
+T52;Efeito T«¸xico de Solventes Org«Ωnicos
+T53;Efeito T«¸xico de Derivados Halog«¶nicos de Hidrocarbonetos Alif«≠ticos e Arom«≠ticos
+T54;Efeito T«¸xico de Corrosivos
+T55;Efeito T«¸xico de Sab«Êes e Detergentes
+T56;Efeito T«¸xico de Metais
+T57;Efeito T«¸xico de Outras Subst«Ωncias Inorg«Ωnicas
+T58;Efeito T«¸xico do Mon«¸xido de Carbono
+T59;Efeito T«¸xico de Outros Gases, Fuma«ıas e Vapores
+T60;Efeito T«¸xico de Pesticidas
+T61;Efeito T«¸xico de Subst«Ωncias Nocivas Consumidas Como Fruto do Mar
+T62;Efeito T«¸xico de Outras Subst«Ωncias Nocivas Ingeridas Como Alimento
+T63;Efeito T«¸xico de Contato Com Animais Venenosos
+T64;Efeito T«¸xico da Aflatoxina e de Outras Micotoxinas Contaminantes de Alimentos
+T65;Efeito T«¸xico de Outras Subst«Ωncias e as N«úo Especificadas
+T66;Efeitos N«úo Especificados de Radia«ı«úo
+T67;Efeitos do Calor e da Luz
+T68;Hipotermia
+T69;Outros Efeitos da Temperatura Reduzida
+T70;Efeitos da Press«úo Atmosf«∏rica e da Press«úo da «Ågua
+T71;Asfixia
+T73;Efeitos de Outras Priva«ı«Êes
+T74;S«ndromes de Maus Tratos
+T75;Efeitos de Outras Causas Externas
+T78;Efeitos Adversos N«úo Classificados em Outra Parte
+T79;Algumas Complica«ı«Êes Precoces Dos Traumatismos N«úo Classificadas em Outra Parte
+T80;Complica«ı«Êes Conseq«¨entes «ˇ Infus«úo, Transfus«úo ou Inje«ı«úo Terap«¶utica
+T81;Complica«ı«Êes de Procedimentos N«úo Classificadas em Outra Parte
+T82;Complica«ı«Êes de Dispositivos Prot«∏ticos, Implantes e Enxertos Card«acos e Vasculares
+T83;Complica«ı«Êes de Dispositivos Prot«∏ticos, Implantes e Enxertos Geniturin«≠rios Internos
+T84;Complica«ı«Êes de Dispositivos Prot«∏ticos, Implantes e Enxertos Ortop«∏dicos Internos
+T85;Complica«ı«Êes de Outros Dispositivos Prot«∏ticos, Implantes e Enxertos Internos
+T86;Falha e Rejei«ı«úo de «?rg«úos e Tecidos Transplantados
+T87;Complica«ı«Êes Pr«¸prias de Reimplante e Amputa«ı«úo
+T88;Outras Complica«ı«Êes de Cuidados M«∏dicos e Cir«ßrgicos N«úo Classificadas em Outra Parte
+T90;Seq«¨elas de Traumatismo da Cabe«ıa
+T91;Seq«¨elas de Traumatismos do Pesco«ıo e do Tronco
+T92;Seq«¨elas de Traumatismos do Membro Superior
+T93;Seq«¨elas de Traumatismos do Membro Inferior
+T94;Seq«¨elas de Traumatismos Envolvendo M«ßltiplas Regi«Êes do Corpo e as N«úo Especificadas
+T95;Seq«¨elas de Queimaduras, Corros«Êes e Geladuras
+T96;Seq«¨elas de Intoxica«ı«úo Por Drogas, Medicamentos e Subst«Ωncias Biol«¸gicas
+T97;Seq«¨elas de Efeitos T«¸xicos de Subst«Ωncias de Origem Predominantemente N«úo-medicinal
+T98;Seq«¨elas de Outros Efeitos de Causas Externas e Dos N«úo Especificados
+U04;S«ndrome Respirat«¸ria Aguda Grave (severe Acute Respiratory Syndrome SARS)
+U80;Agente Resistente «ˇ Penicilina e Antibi«¸ticos Relacionados
+U81;Agente Resistente «ˇ Vancomicina e Antibi«¸ticos Relacionados
+U88;Agente Resistente a M«ßltiplos Antibi«¸ticos
+U89;Agente Resistente a Outros Antibi«¸ticos e a Antibi«¸ticos N«úo Especificados
+V01;Pedestre Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V02;Pedestre Traumatizado em Colis«úo Com um Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V03;"Pedestre Traumatizado em Colis«úo Com um Autom«¸vel (carro), ""pick Up"" ou Caminhonete"
+V04;Pedestre Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou Com um «?nibus
+V05;Pedestre Traumatizado em Colis«úo Com Trem (comboio) ou um Ve«culo Ferrovi«≠rio
+V06;Pedestre Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V09;Pedestre Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V10;Ciclista Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V11;Ciclista Traumatizado em Colis«úo Com Outro Ve«culo a Pedal
+V12;Ciclista Traumatizado em Colis«úo Com um Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V13;"Ciclista Traumatizado em Colis«úo Com um Autom«¸vel, ""pick Up"" ou Caminhonete"
+V14;Ciclista Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou um «?nibus
+V15;Ciclista Traumatizado em Colis«úo Com um Trem ou um Ve«culo Ferrovi«≠rio
+V16;Ciclista Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V17;Ciclista Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V18;Ciclista Traumatizado em um Acidente de Transporte Sem Colis«úo
+V19;Ciclista Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V20;Motociclista Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V21;Motociclista Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V22;Motociclista Traumatizado em Colis«úo Com um Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V23;"Motociclista Traumatizado em Colis«úo Com um Autom«¸vel (carro), ""pick Up"" ou Caminhonete"
+V24;Motociclista Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou um «?nibus
+V25;Motociclista Traumatizado em Colis«úo Com um Trem ou um Ve«culo Ferrovi«≠rio
+V26;Motociclista Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V27;Motociclista Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V28;Motociclista Traumatizado em um Acidente de Transporte Sem Colis«úo
+V29;Motociclista Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V30;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V31;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V32;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com Outro Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V33;"Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com um Autom«¸vel, ""pick Up"" ou Caminhonete"
+V34;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou um «?nibus
+V35;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com um Trem (comboio) ou um Ve«culo Ferrovi«≠rio
+V36;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V37;Ocupante de um Triciclo Motorizado Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V38;Ocupante de um Triciclo Motorizado Traumatizado em um Acidente de Transporte Sem Colis«úo
+V39;Ocupante de um Triciclo Motorizado Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V40;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V41;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V42;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com Outro Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V43;"Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com um Autom«¸vel (carro), ""pick Up"" ou Caminhonete"
+V44;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou um «?nibus
+V45;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com um Trem (comboio) ou um Ve«culo Ferrovi«≠rio
+V46;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V47;Ocupante de um Autom«¸vel (carro) Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V48;Ocupante de um Autom«¸vel (carro) Traumatizado em um Acidente de Transporte Sem Colis«úo
+V49;Ocupante de um Autom«¸vel (carro) Traumatizado em Outro Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V50;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V51;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V52;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V53;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com um Autom«¸vel (carro) ou Uma Caminhonete
+V54;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou um «?nibus
+V55;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com um Trem (comboio) ou Ve«culo Ferrovi«≠rio
+V56;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V57;Ocupante de Uma Caminhonete Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V58;Ocupante de Uma Caminhonete Traumatizado em um Acidente de Transporte Sem Colis«úo
+V59;Ocupante de Uma Caminhonete Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V60;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V61;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V62;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V63;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Autom«¸vel (carro) ou Uma Caminhonete
+V64;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Outro Ve«culo de Transporte Pesado ou um «?nibus
+V65;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Trem (comboio) ou um Ve«culo Ferrovi«≠rio
+V66;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Outro Ve«culo N«úo-motorizado
+V67;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V68;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em um Acidente de Transporte Sem Colis«úo
+V69;Ocupante de um Ve«culo de Transporte Pesado Traumatizado em Outros Acidentes de Transporte N«úo Especificados
+V70;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Pedestre ou um Animal
+V71;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Ve«culo a Pedal
+V72;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Outro Ve«culo a Motor de Duas ou Tr«¶s Rodas
+V73;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Autom«¸vel (carro) ou Uma Caminhonete
+V74;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Ve«culo de Transporte Pesado ou um «?nibus
+V75;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Trem (comboio) ou um Ve«culo Ferrovi«≠rio
+V76;Ocupante de um «?nibus Traumatizado em Colis«úo Com Outro Ve«culo N«úo-motorizado
+V77;Ocupante de um «?nibus Traumatizado em Colis«úo Com um Objeto Fixo ou Parado
+V78;Ocupante de um «?nibus Traumatizado em um Acidente de Transporte Sem Colis«úo
+V79;Ocupante de um «?nibus Traumatizado em Outros Acidentes de Transporte e em Acidentes de Transporte N«úo Especificados
+V80;Pessoa Montada em Animal ou Ocupante de um Ve«culo a Tra«ı«úo Animal Traumatizado em um Acidente de Transporte
+V81;Ocupante de um Trem (comboio) ou um Ve«culo Ferrovi«≠rio Traumatizado em um Acidente de Transporte
+V82;Ocupante de um Bonde (carro El«∏trico) Traumatizado em um Acidente de Transporte
+V83;Ocupante de um Ve«culo Especial a Motor Usado Principalmente em «Åreas Industriais Traumatizado em um Acidente de Transporte
+V84;Ocupante de um Ve«culo Especial a Motor de Uso Essencialmente Agr«cola Traumatizado em um Acidente de Transporte
+V85;Ocupante de um Ve«culo a Motor Especial de Constru«ı«Êes Traumatizado em um Acidente de Transporte
+V86;Ocupante de um Ve«culo Especial Para Qualquer Terreno ou de Outro Ve«culo a Motor Projetado Essencialmente Para Uso N«úo em Via P«ßblica, Traumatizado em um Acidente de Transporte
+V87;Acidente de Tr«Ωnsito de Tipo Especificado, Mas Sendo Desconhecido o Modo de Transporte da V«tima
+V88;Acidente N«úo-de-tr«Ωnsito de Tipo Especificado, Mas Sendo Desconhecido o Modo de Transporte da V«tima
+V89;Acidente Com um Ve«culo a Motor ou N«úo-motorizado, Tipo(s) de Ve«culo(s) N«úo Especificado(s)
+V90;Acidente Com Embarca«ı«úo Causando Afogamento e Submers«úo
+V91;Acidente Com Embarca«ı«úo Causando Outro Tipo de Traumatismo
+V92;Afogamento e Submers«úo Relacionados Com Transporte Por «Ågua Sem Acidente Com a Embarca«ı«úo
+V93;Acidente a Bordo de Uma Embarca«ı«úo, Sem Acidente da Embarca«ı«úo e N«úo Causando Afogamento ou Submers«úo
+V94;Outros Acidentes de Transporte Por «Ågua e os N«úo Especificados
+V95;Acidente de Aeronave a Motor Causando Traumatismo ao Ocupante
+V96;Acidente de Uma Aeronave Sem Motor Causando Traumatismo a Ocupante
+V97;Outros Acidentes Especificados de Transporte A«∏reo
+V98;Outros Acidentes de Transporte Especificados
+V99;Acidente de Transporte N«úo Especificado
+W00;Queda no Mesmo N«vel Envolvendo Gelo e Neve
+W01;Queda no Mesmo N«vel Por Escorreg«úo, Trope«ı«úo ou Passos em Falsos (trasp«∏s)
+W02;Queda Envolvendo Patins de Rodas ou Para Gelo, Esqui ou Pranchas de Rodas
+W03;Outras Quedas no Mesmo N«vel Por Colis«úo Com ou Empurr«úo Por Outra Pessoa
+W04;Queda, Enquanto Estava Sendo Carregado ou Apoiado Por Outra(s) Pessoa(s)
+W05;Queda Envolvendo Uma Cadeira de Rodas
+W06;Queda de um Leito
+W07;Queda de Uma Cadeira
+W08;Queda de Outro Tipo de Mob«lia
+W09;"Queda Envolvendo Equipamento de ""playground"""
+W10;Queda em ou de Escadas ou Degraus
+W11;Queda em ou de Escadas de M«úo
+W12;Queda em ou de um Andaime
+W13;Queda de ou Para Fora de Edif«cios ou Outras Estruturas
+W14;Queda de «Årvore
+W15;Queda de Penhasco
+W16;Mergulho ou Pulo na «Ågua Causando Outro Traumatismo Que N«úo Afogamento ou Submers«úo
+W17;Outras Quedas de um N«vel a Outro
+W18;Outras Quedas no Mesmo N«vel
+W19;Queda Sem Especifica«ı«úo
+W20;Impacto Causado Por Objeto Lan«ıado, Projetado ou em Queda
+W21;Impacto Acidental Ativo ou Passivo Causado Por Equipamento Esportivo
+W22;Impacto Acidental Ativo ou Passivo Causado Por Outros Objetos
+W23;Apertado, Colhido, Comprimido ou Esmagado Dentro de ou Entre Objetos
+W24;Contato Com Elevadores e Instrumentos de Transmiss«úo, N«úo Classificados em Outra Parte
+W25;Contato Com Vidro Cortante
+W26;Contato Com Faca, Espada e Punhal
+W27;Contato Com Ferramentas Manuais Sem Motor
+W28;Contato Com Segadeira Motorizada Para Cortar ou Aparar a Grama
+W29;Contato Com Outros Utens«lios Manuais e Aparelhos Dom«∏sticos Equipados Com Motor
+W30;Contato Com Maquinaria Agr«cola
+W31;Contato Com Outras M«≠quinas e Com as N«úo Especificadas
+W32;Proj«∏til de Rev«¸lver
+W33;Rifle, Espingarda e Armas de Fogo de Maior Tamanho
+W34;Proj«∏teis de Outras Armas de Fogo e Das N«úo Especificadas
+W35;Explos«úo ou Ruptura de Caldeira
+W36;Explos«úo ou Ruptura de Cilindro de G«≠s
+W37;Explos«úo ou Ruptura de Pneum«≠tico, Tubula«ı«úo ou Mangueira, Pressurizados
+W38;Explos«úo ou Ruptura de Outros Aparelhos Pressurizados Especificados
+W39;Queima de Fogos de Artif«cio
+W40;Explos«úo de Outros Materiais
+W41;Exposi«ı«úo a um Jato de Alta Press«úo
+W42;Exposi«ı«úo ao Ru«do
+W43;Exposi«ı«úo «ˇ Vibra«ı«úo
+W44;Penetra«ı«úo de Corpo Estranho no ou Atrav«∏s de Olho ou Orif«cio Natural
+W45;Penetra«ı«úo de Corpo ou Objeto Estranho Atrav«∏s da Pele
+W46;Contato Com Agulha Hipod«∏rmica
+W49;Exposi«ı«úo a Outras For«ıas Mec«Ωnicas Inanimadas e «ˇs N«úo Especificadas
+W50;Golpe, Pancada, Pontap«∏, Mordedura ou Escoria«ı«úo Infligidos Por Outra Pessoa
+W51;Colis«úo Entre Duas Pessoas
+W52;Esmagado, Empurrado ou Pisoteado Por Multid«úo ou Debandada em Massa de Pessoas
+W53;Mordedura de Rato
+W54;Mordedura ou Golpe Provocado Por C«úo
+W55;Mordedura ou Golpe Provocado Por Outros Animais Mam«feros
+W56;Contato Com Animais Marinhos
+W57;Mordeduras e Picadas de Inseto e de Outros Artr«¸podes, N«úo-venenosos
+W58;Mordedura ou Golpe Provocado Por Crocodilo ou Alig«≠tor
+W59;Mordedura ou Esmagamento Provocado Por Outros R«∏pteis
+W60;Contato Com Espinhos de Plantas ou Com Folhas Agu«ıadas
+W64;Exposi«ı«úo a Outras For«ıas Mec«Ωnicas Animadas e «ˇs N«úo Especificadas
+W65;Afogamento e Submers«úo Durante Banho em Banheira
+W66;Afogamento e Submers«úo Consecutiva a Queda Dentro de Uma Banheira
+W67;Afogamento e Submers«úo em Piscina
+W68;Afogamento e Submers«úo Conseq«¨ente a Queda Dentro de Uma Piscina
+W69;Afogamento e Submers«úo em «Åguas Naturais
+W70;Afogamento e Submers«úo Conseq«¨entes a Queda Dentro de «Åguas Naturais
+W73;Outros Afogamentos e Submers«úo Especificados
+W74;Afogamento e Submers«úo N«úo Especificados
+W75;Sufoca«ı«úo e Estrangulamento Acidental na Cama
+W76;Outro Enforcamento e Estrangulamento Acidental
+W77;Risco a Respira«ı«úo Devido a Desmoronamento, Queda de Terra e de Outras Subst«Ωncias
+W78;Inala«ı«úo do Conte«ßdo G«≠strico
+W79;Inala«ı«úo e Ingest«úo de Alimentos Causando Obstru«ı«úo do Trato Respirat«¸rio
+W80;Inala«ı«úo e Ingest«úo de Outros Objetos Causando Obstru«ı«úo do Trato Respirat«¸rio
+W81;Confinado ou Aprisionado em um Ambiente Pobre em Oxig«¶nio
+W83;Outros Riscos Especificados «ˇ Respira«ı«úo
+W84;Riscos N«úo Especificados «ˇ Respira«ı«úo
+W85;Exposi«ı«úo a Linhas de Transmiss«úo de Corrente El«∏trica
+W86;Exposi«ı«úo a Outra Corrente El«∏trica Especificada
+W87;Exposi«ı«úo a Corrente El«∏trica N«úo Especificada
+W88;Exposi«ı«úo a Radia«ı«úo Ionizante
+W89;Exposi«ı«úo a Fontes Luminosas Artificiais Vis«veis ou «ˇ Luz Ultravioleta
+W90;Exposi«ı«úo a Outros Tipos de Radia«ı«úo N«úo-ionizante
+W91;Exposi«ı«úo a Tipo N«úo Especificado de Radia«ı«úo
+W92;Exposi«ı«úo a um Calor Excessivo de Origem Artificial
+W93;Exposi«ı«úo a um Frio Excessivo de Origem Artificial
+W94;Exposi«ı«úo a Alta, Baixa e a Varia«ı«Êes da Press«úo Atmosf«∏rica
+W99;Exposi«ı«úo a Outros Fatores Ambientais Artificiais e Aos N«úo Especificados
+X00;Exposi«ı«úo a Fogo N«úo-controlado em um Edif«cio ou Outro Tipo de Constru«ı«úo
+X01;Exposi«ı«úo a Fogo N«úo-controlado Fora de um Edif«cio ou de Outro Tipo de Constru«ı«úo
+X02;Exposi«ı«úo a Fogo Controlado em um Edif«cio ou Outro Tipo de Constru«ı«úo
+X03;Exposi«ı«úo a Fogo Controlado Fora de um Edif«cio ou de Outro Tipo de Constru«ı«úo
+X04;Exposi«ı«úo a Combust«úo de Subst«Ωncia Muito Inflam«≠vel
+X05;Exposi«ı«úo a Combust«úo de Roupa de Dormir
+X06;Exposi«ı«úo a Combust«úo de Outro Tipo de Roupa ou de Acess«¸rios
+X08;Exposi«ı«úo a Outro Tipo Especificado de Fuma«ıa, Fogo ou Chamas
+X09;Exposi«ı«úo a Tipo N«úo Especificado de Fuma«ıa, Fogo ou Chamas
+X10;Contato Com Bebidas, Alimentos, Gordura e «?leo de Cozinha Quentes
+X11;Contato Com «Ågua Corrente Quente de Torneira
+X12;Contato Com Outros L«quidos Quentes
+X13;Contato Com Vapor D''«≠gua e Com Vapores Quentes
+X14;Contato Com ar e Gases Quentes
+X15;Contato Com Aparelhos Dom«∏sticos Quentes
+X16;Contato Com Aquecedores, Radiadores e Tubula«ı«úo
+X17;Contato Com Motores, M«≠quinas e Ferramentas Quentes
+X18;Contato Com Outros Metais Quentes
+X19;Contato Com Outras Fontes de Calor ou Com Subst«Ωncias Quentes N«úo Especificados
+X20;Contato Com Serpentes e Lagartos Venenosos
+X21;Contato Com Aranhas Venenosas
+X22;Contato Com Escorpi«Êes
+X23;Contato Com Abelhas, Vespas e Vesp«Êes
+X24;Contato Com Centop«∏ias e Miri«≠podes Venenosas (tropicais)
+X25;Contato Com Outros Artr«¸podes Venenosos
+X26;Contato Com Animais e Plantas Marinhos Venenosos
+X27;Contato Com Outros Animais Venenosos Especificados
+X28;Contato Com Outras Plantas Venenosas Especificadas
+X29;Contato Com Animais ou Plantas Venenosos, Sem Especifica«ı«úo
+X30;Exposi«ı«úo a Calor Natural Excessivo
+X31;Exposi«ı«úo a Frio Natural Excessivo
+X32;Exposi«ı«úo «ˇ Luz Solar
+X33;V«tima de Raio
+X34;V«tima de Terremoto
+X35;V«tima de Erup«ı«úo Vulc«Ωnica
+X36;V«tima de Avalanche, Desabamento de Terra e Outros Movimentos da Superf«cie Terrestre
+X37;V«tima de Tempestade Catacl«smica
+X38;V«tima de Inunda«ı«úo
+X39;Exposi«ı«úo a Outras For«ıas da Natureza e «ˇs N«úo Especificadas
+X40;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Analg«∏sicos, Antipir«∏ticos e Anti-reum«≠ticos, N«úo-opi«≠ceos
+X41;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Anticonvulsivantes (antiepil«∏pticos), Sedativos, Hipn«¸ticos, Antiparkinsonianos e Psicotr«¸picos N«úo Classificadas em Outra Parte
+X42;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Narc«¸ticos e Psicodisl«∏pticos (alucin«¸genos) N«úo Classificados em Outra Parte
+X43;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Outras Subst«Ωncias Farmacol«¸gicas de A«ı«úo Sobre o Sistema Nervoso Aut«Ônomo
+X44;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Outras Drogas, Medicamentos e Subst«Ωncias Biol«¸gicas N«úo Especificadas
+X45;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo ao «Ålcool
+X46;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Solventes Org«Ωnicos e Hidrocarbonetos Halogenados e Seus Vapores
+X47;Intoxica«ı«úo Acidental Por e Exposi«ı«úo a Outros Gases e Vapores
+X48;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Pesticidas
+X49;Envenenamento (intoxica«ı«úo) Acidental Por e Exposi«ı«úo a Outras Subst«Ωncias Qu«micas Nocivas e «ˇs N«úo Especificadas
+X50;Excesso de Exerc«cios e Movimentos Vigorosos ou Repetitivos
+X51;Viagem e Movimento
+X52;Estadia Prolongada em Ambiente Agravitacional
+X53;Falta de Alimento
+X54;Falta de «Ågua
+X57;Priva«ı«úo N«úo Especificada
+X58;Exposi«ı«úo a Outros Fatores Especificados
+X59;Exposi«ı«úo a Fatores N«úo Especificados
+X60;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Analg«∏sicos, Antipir«∏ticos e Anti-reum«≠ticos, N«úo-opi«≠ceos
+X61;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Drogas Anticonvulsivantes (antiepil«∏pticos) Sedativos, Hipn«¸ticos, Antiparkinsonianos e Psicotr«¸picos N«úo Classificados em Outra Parte
+X62;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Narc«¸ticos e Psicodisl«∏pticos (alucin«¸genos) N«úo Classificados em Outra Parte
+X63;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Outras Subst«Ωncias Farmacol«¸gicas de A«ı«úo Sobre o Sistema Nervoso Aut«Ônomo
+X64;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Outras Drogas, Medicamentos e Subst«Ωncias Biol«¸gicas e «ˇs N«úo Especificadas
+X65;Auto-intoxica«ı«úo Volunt«≠ria Por «Ålcool
+X66;Auto-intoxica«ı«úo Intencional Por Solventes Org«Ωnicos, Hidrocarbonetos Halogenados e Seus Vapores
+X67;Auto-intoxica«ı«úo Intencional Por Outros Gases e Vapores
+X68;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Pesticidas
+X69;Auto-intoxica«ı«úo Por e Exposi«ı«úo, Intencional, a Outros Produtos Qu«micos e Subst«Ωncias Nocivas N«úo Especificadas
+X70;Les«úo Autoprovocada Intencionalmente Por Enforcamento, Estrangulamento e Sufoca«ı«úo
+X71;Les«úo Autoprovocada Intencionalmente Por Afogamento e Submers«úo
+X72;Les«úo Autoprovocada Intencionalmente Por Disparo de Arma de Fogo de M«úo
+X73;Les«úo Autoprovocada Intencionalmente Por Disparo de Espingarda, Carabina, ou Arma de Fogo de Maior Calibre
+X74;Les«úo Autoprovocada Intencionalmente Por Disparo de Outra Arma de Fogo e de Arma de Fogo N«úo Especificada
+X75;Les«úo Autoprovocada Intencionalmente Por Dispositivos Explosivos
+X76;Les«úo Autoprovocada Intencionalmente Pela Fuma«ıa, Pelo Fogo e Por Chamas
+X77;Les«úo Autoprovocada Intencionalmente Por Vapor de «Ågua, Gases ou Objetos Quentes
+X78;Les«úo Autoprovocada Intencionalmente Por Objeto Cortante ou Penetrante
+X79;Les«úo Autoprovocada Intencionalmente Por Objeto Contundente
+X80;Les«úo Autoprovocada Intencionalmente Por Precipita«ı«úo de um Lugar Elevado
+X81;Les«úo Autoprovocada Intencionalmente Por Precipita«ı«úo ou Perman«¶ncia Diante de um Objeto em Movimento
+X82;Les«úo Autoprovocada Intencionalmente Por Impacto de um Ve«culo a Motor
+X83;Les«úo Autoprovocada Intencionalmente Por Outros Meios Especificados
+X84;Les«úo Autoprovocada Intencionalmente Por Meios N«úo Especificados
+X85;Agress«úo Por Meio de Drogas, Medicamentos e Subst«Ωncias Biol«¸gicas
+X86;Agress«úo Por Meio de Subst«Ωncias Corrosivas
+X87;Agress«úo Por Pesticidas
+X88;Agress«úo Por Meio de Gases e Vapores
+X89;Agress«úo Por Meio de Outros Produtos Qu«micos e Subst«Ωncias Nocivas Especificados
+X90;Agress«úo Por Meio de Produtos Qu«micos e Subst«Ωncias Nocivas N«úo Especificados
+X91;Agress«úo Por Meio de Enforcamento, Estrangulamento e Sufoca«ı«úo
+X92;Agress«úo Por Meio de Afogamento e Submers«úo
+X93;Agress«úo Por Meio de Disparo de Arma de Fogo de M«úo
+X94;Agress«úo Por Meio de Disparo de Espingarda, Carabina ou Arma de Fogo de Maior Calibre
+X95;Agress«úo Por Meio de Disparo de Outra Arma de Fogo ou de Arma N«úo Especificada
+X96;Agress«úo Por Meio de Material Explosivo
+X97;Agress«úo Por Meio de Fuma«ıa, Fogo e Chamas
+X98;Agress«úo Por Meio de Vapor de «Ågua, Gases ou Objetos Quentes
+X99;Agress«úo Por Meio de Objeto Cortante ou Penetrante
+Y00;Agress«úo Por Meio de um Objeto Contundente
+Y01;Agress«úo Por Meio de Proje«ı«úo de um Lugar Elevado
+Y02;Agress«úo Por Meio de Proje«ı«úo ou Coloca«ı«úo da V«tima Diante de um Objeto em Movimento
+Y03;Agress«úo Por Meio de Impacto de um Ve«culo a Motor
+Y04;Agress«úo Por Meio de For«ıa Corporal
+Y05;Agress«úo Sexual Por Meio de For«ıa F«sica
+Y06;Neglig«¶ncia e Abandono
+Y07;Outras S«ndromes de Maus Tratos
+Y08;Agress«úo Por Outros Meios Especificados
+Y09;Agress«úo Por Meios N«úo Especificados
+Y10;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Analg«∏sicos, Antipir«∏ticos e Anti-reum«≠ticos N«úo-opi«≠ceos, Inten«ı«úo N«úo Determinada
+Y11;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Anticonvulsivantes (antiepil«∏pticos), Sedativos, Hipn«¸ticos, Antiparkinsonianos e Psicotr«¸picos N«úo Classificados em Outra Parte, Inten«ı«úo N«úo Determinada
+Y12;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Narc«¸ticos e a Psicodisl«∏pticos (alucin«¸genos) N«úo Classificados em Outra Parte, Inten«ı«úo N«úo Determinada
+Y13;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Outras Subst«Ωncias Farmacol«¸gicas de A«ı«úo Sobre o Sistema Nervoso Aut«Ônomo, Inten«ı«úo N«úo Determinada
+Y14;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Outras Drogas, Medicamentos e Subst«Ωncias Biol«¸gicas e as N«úo Especificadas, Inten«ı«úo N«úo Determinada
+Y15;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo ao «Ålcool, Inten«ı«úo N«úo Determinada
+Y16;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Solventes Org«Ωnicos e Hidrocarbonetos Halogenados e Seus Vapores, Inten«ı«úo N«úo Determinada
+Y17;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Outros Gases e Vapores, Inten«ı«úo N«úo Determinada
+Y18;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Pesticidas, Inten«ı«úo N«úo Determinada
+Y19;Envenenamento (intoxica«ı«úo) Por e Exposi«ı«úo a Outros Produtos Qu«micos e Subst«Ωncias Nocivas e Aos N«úo Especificados, Inten«ı«úo N«úo Determinada
+Y20;Enforcamento, Estrangulamento e Sufoca«ı«úo, Inten«ı«úo N«úo Determinada
+Y21;Afogamento e Submers«úo, Inten«ı«úo N«úo Determinada
+Y22;Disparo de Pistola, Inten«ı«úo N«úo Determinada
+Y23;Disparo de Fuzil, Carabina e Arma de Fogo de Maior Calibre, Inten«ı«úo N«úo Determinada
+Y24;Disparo de Outra Arma de Fogo e de Arma de Fogo N«úo Especificada, Inten«ı«úo N«úo Determinada
+Y25;Contato Com Material Explosivo, Inten«ı«úo N«úo Determinada
+Y26;Exposi«ı«úo a Fuma«ıa, Fogo e Chamas, Inten«ı«úo N«úo Determinada
+Y27;Exposi«ı«úo a Vapor de «Ågua, Gases ou Objetos Quentes, Inten«ı«úo N«úo Determinada
+Y28;Contato Com Objeto Cortante ou Penetrante, Inten«ı«úo N«úo Determinada
+Y29;Contato Com Objeto Contundente, Inten«ı«úo N«úo Determinada
+Y30;Queda, Salto ou Empurrado de um Lugar Elevado, Inten«ı«úo N«úo Determinada
+Y31;Queda, Perman«¶ncia ou Corrida Diante de um Objeto em Movimento, Inten«ı«úo N«úo Determinada
+Y32;Impacto de um Ve«culo a Motor, Inten«ı«úo N«úo Determinada
+Y33;Outros Fatos ou Eventos Especificados, Inten«ı«úo N«úo Determinada
+Y34;Fatos ou Eventos N«úo Especificados e Inten«ı«úo N«úo Determinada
+Y35;Interven«ı«úo Legal
+Y36;Opera«ı«Êes de Guerra
+Y40;Efeitos Adversos de Antibi«¸ticos Sist«¶micos
+Y41;Efeitos Adversos de Outros Antiinfecciosos e Antiparasit«≠rios Sist«¶micos
+Y42;Efeitos Adversos de Horm«Ônios e Seus Substitutos Sint«∏ticos e Antagonistas, N«úo Classificados em Outra Parte
+Y43;Efeitos Adversos de Subst«Ωncias de A«ı«úo Primariamente Sist«¶mica
+Y44;Efeitos Adversos de Subst«Ωncias Farmacol«¸gicas Que Atuam Primariamente Sobre os Constituintes do Sangue
+Y45;Efeitos Adversos de Subst«Ωncias Analg«∏sicas, Antipir«∏ticas e Antiinflamat«¸rias
+Y46;Efeitos Adversos de Drogas Anticonvulsivantes (antiepil«∏pticas) e Antiparkinsonianas
+Y47;Efeitos Adversos de Sedativos, Hipn«¸ticos e Tranquilizantes (ansiol«ticos)
+Y48;Efeitos Adversos de Anest«∏sicos e Gases Terap«¶uticos
+Y49;Efeitos Adversos de Subst«Ωncias Psicotr«¸picas, N«úo Classificadas em Outra Parte
+Y50;Efeitos Adversos de Estimulantes do Sistema Nervoso Central, N«úo Classificados em Outra Parte
+Y51;Efeitos Adversos de Drogas Que Atuam Primariamente Sobre o Sistema Nervoso Aut«Ônomo
+Y52;Efeitos Adversos de Subst«Ωncias Que Atuam Primariamente Sobre o Aparelho Cardiovascular
+Y53;Efeitos Adversos de Subst«Ωncias Que Atuam Primariamente Sobre o Aparelho Gastrointestinal
+Y54;Efeitos Adversos de Subst«Ωncias Que Atuam Primariamente Sobre o Metabolismo da «Ågua, Dos Sais Minerais e do «Åcido «?rico
+Y55;Efeitos Adversos de Subst«Ωncias Que Atuam Primariamente Sobre os M«ßsculos Lisos e Esquel«∏ticos e Sobre o Aparelho Respirat«¸rio
+Y56;Efeitos Adversos de Subst«Ωncias de Uso T«¸pico Que Atuam Primariamente Sobre a Pele e as Membranas Mucosas e Drogas de Uso Oftalmol«¸gico, Otorrinolaringol«¸gico e Dent«≠rio
+Y57;Efeitos Adversos de Outras Drogas e Medicamentos e as N«úo Especificadas
+Y58;Efeitos Adversos de Vacinas Bacterianas
+Y59;Efeitos Adversos de Outras Vacinas e Subst«Ωncias Biol«¸gicas e as N«úo Especificadas
+Y60;Corte, Pun«ı«úo, Perfura«ı«úo ou Hemorragia Acidentais Durante a Presta«ı«úo de Cuidados M«∏dicos ou Cir«ßrgicos
+Y61;Objeto Estranho Deixado Acidentalmente no Corpo Durante a Presta«ı«úo de Cuidados Cir«ßrgicos e M«∏dicos
+Y62;Assepsia Insuficiente Durante a Presta«ı«úo de Cuidados Cir«ßrgicos e M«∏dicos
+Y63;Erros de Dosagem Durante a Presta«ı«úo de Cuidados M«∏dicos e Cir«ßrgicos
+Y64;Medicamentos ou Subst«Ωncias Biol«¸gicas Contaminados
+Y65;Outros Acidentes Durante a Presta«ı«úo de Cuidados M«∏dicos e Cir«ßrgicos
+Y66;N«úo Administra«ı«úo de Cuidado M«∏dico e Cir«ßrgico
+Y69;Acidente N«úo Especificado Durante a Presta«ı«úo de Cuidado M«∏dico e Cir«ßrgico
+Y70;Dispositivos (aparelhos) de Anestesiologia, Associados a Incidentes Adversos
+Y71;Dispositivos (aparelhos) Cardiovasculares, Associados a Incidentes Adversos
+Y72;Dispositivos (aparelhos) Utilizados em Otorrinolaringologia, Associados a Incidentes Adversos
+Y73;Dispositivos (aparelhos) Usados em Gastroenterologia e em Urologia, Associados a Incidentes Adversos
+Y74;Dispositivos (aparelhos) Gerais de Uso Hospitalar ou Pessoal, Associados a Incidentes Adversos
+Y75;Dispositivos (aparelhos) Utilizados em Neurologia, Associados a Incidentes Adversos
+Y76;Dispositivos (aparelhos) Utilizados em Obstetr«cia e em Ginecologia, Associados a Incidentes Adversos
+Y77;Dispositivos (aparelhos) Utilizados em Oftalmologia, Associados a Incidentes Adversos
+Y78;Dispositivos (aparelhos) Utilizados em Radiologia, Associados a Incidentes Adversos
+Y79;Dispositivos (aparelhos) Ortop«∏dicos, Associado a Incidentes Adversos
+Y80;Dispositivos (aparelhos) Utilizados em Medicina F«sica (fisiatria), Associado a Incidentes Adversos
+Y81;Dispositivos (aparelhos) Utilizados em Cirurgia Geral ou Cirurgia Pl«≠stica, Associados a Incidente Adversos
+Y82;Outros Dispositivos (aparelhos) Associados a Incidentes Adversos e os N«úo Especificados
+Y83;Rea«ı«úo Anormal em Paciente ou Complica«ı«úo Tardia, Causadas Por Interven«ı«úo Cir«ßrgica e Por Outros Atos Cir«ßrgicos, Sem Men«ı«úo de Acidente Durante a Interven«ı«úo
+Y84;Rea«ı«úo Anormal em Paciente ou Complica«ı«úo Tardia, Causadas Por Outros Procedimentos M«∏dicos, Sem Men«ı«úo de Acidente Durante o Procedimento
+Y85;Seq«¨elas de Acidentes de Transporte
+Y86;Seq«¨elas de Outros Acidentes
+Y87;Seq«¨elas de Uma Les«úo Autoprovocada Intencionalmente, de Agress«úo ou de um Fato Cuja Inten«ı«úo «∏ Indeterminada
+Y88;Seq«¨elas de Cuidado M«∏dico ou Cir«ßrgico Considerados Como Uma Causa Externa
+Y89;Seq«¨elas de Outras Causas Externas
+Y90;Evid«¶ncia de Alcoolismo Determinada Por Taxas de Alcoolemia
+Y91;Evid«¶ncia de Alcoolismo Determinada Pelo N«vel da Intoxica«ı«úo
+Y95;Circunst«Ωncia Relativa as Condi«ı«Êes Nosocomiais (hospitalares)
+Y96;Circunst«Ωncia Relativa «ˇs Condi«ı«Êes de Trabalho
+Y97;Circunst«Ωncias Relativas a Condi«ı«Êes de Polui«ı«úo Ambiental
+Y98;Circunst«Ωncias Relativas a Condi«ı«Êes do Modo de Vida
+Z00;Exame Geral e Investiga«ı«úo de Pessoas Sem Queixas ou Diagn«¸stico Relatado
+Z01;Outros Exames e Investiga«ı«Êes Especiais de Pessoas Sem Queixa ou Diagn«¸stico Relatado
+Z02;Exame M«∏dico e Consulta Com Finalidades Administrativas
+Z03;Observa«ı«úo e Avalia«ı«úo M«∏dica Por Doen«ıas e Afec«ı«Êes Suspeitas
+Z04;Exame e Observa«ı«úo Por Outras Raz«Êes
+Z08;Exame de Seguimento Ap«¸s Tratamento Por Neoplasia Maligna
+Z09;Exame de Seguimento Ap«¸s Tratamento de Outras Afec«ı«Êes Que N«úo Neoplasias Malignas
+Z10;"Exame Geral de Rotina (""check Up"") de Uma Subpopula«ı«úo Definida"""
+Z11;"Exame Especial de Rastreamento (""screening"") de Doen«ıas Infecciosas e Parasit«≠rias"""
+Z12;"Exame Especial de Rastreamento (""screening"") de Neoplasias"""
+Z13;"Exame Especial de Rastreamento (""screening"") de Outros Transtornos e Doen«ıas"""
+Z20;Contato Com e Exposi«ı«úo a Doen«ıas Transmiss«veis
+Z21;Estado de Infec«ı«úo Assintom«≠tica Pelo V«rus da Imunodefici«¶ncia Humana (HIV)
+Z22;Portador de Doen«ıa Infecciosa
+Z23;Necessidade de Imuniza«ı«úo Contra Uma «?nica Doen«ıa Bacteriana
+Z24;Necessidade de Imuniza«ı«úo Contra Algumas Doen«ıas Virais «?nicas
+Z25;Necessidade de Imuniza«ı«úo Contra Outras Doen«ıas Virais «?nicas
+Z26;Necessidade de Imuniza«ı«úo Contra Outras Doen«ıas Infecciosas «?nicas
+Z27;Necessidade de Imuniza«ı«úo Associada Contra Combina«ı«Êes de Doen«ıas Infecciosas
+Z28;Imuniza«ı«úo N«úo Realizada
+Z29;Necessidade de Outras Medidas Profil«≠ticas
+Z30;Anticoncep«ı«úo
+Z31;Medidas de Procria«ı«úo
+Z32;Exame ou Teste de Gravidez
+Z33;Gravidez Como Achado Casual
+Z34;Supervis«úo de Gravidez Normal
+Z35;Supervis«úo de Gravidez de Alto Risco
+Z36;"Rastreamento (""screening"") Pr«∏-natal"
+Z37;Resultado do Parto
+Z38;Nascidos Vivos (nado-vivos) Segundo o Local de Nascimento
+Z39;Assist«¶ncia e Exame P«¸s-natal
+Z40;Cirurgia Profil«≠tica
+Z41;Procedimentos Para Outros Prop«¸sitos Exceto Cuidados de Sa«ßde
+Z42;Seguimento Envolvendo Cirurgia Pl«≠stica
+Z43;Aten«ı«úo a Orif«cios Artificiais
+Z44;Coloca«ı«úo e Ajustamento de Aparelhos de Pr«¸tese Externa
+Z45;Ajustamento e Manuseio de Dispositivo Implantado
+Z46;Coloca«ı«úo e Ajustamento de Outros Aparelhos
+Z47;Outros Cuidados de Seguimento Ortop«∏dico
+Z48;Outro Seguimento Cir«ßrgico
+Z49;Cuidados Envolvendo Di«≠lise
+Z50;Cuidados Envolvendo o Uso de Procedimentos de Reabilita«ı«úo
+Z51;Outros Cuidados M«∏dicos
+Z52;Doadores de «?rg«úos e Tecidos
+Z53;Pessoas em Contato Com Servi«ıos de Sa«ßde Para Procedimentos Espec«ficos N«úo Realizados
+Z54;Convalescen«ıa
+Z55;Problemas Relacionados Com a Educa«ı«úo e Com a Alfabetiza«ı«úo
+Z56;Problemas Relacionados Com o Emprego e Com o Desemprego
+Z57;Exposi«ı«úo Ocupacional a Fatores de Risco
+Z58;Problemas Relacionados Com o Ambiente F«sico
+Z59;Problemas Relacionados Com a Habita«ı«úo e Com as Condi«ı«Êes Econ«Ômicas
+Z60;Problemas Relacionados Com o Meio Social
+Z61;Problemas Relacionados Com Eventos Negativos de Vida na Inf«Ωncia
+Z62;Outros Problemas Relacionados Com a Educa«ı«úo da Crian«ıa
+Z63;Outros Problemas Relacionados Com o Grupo Prim«≠rio de Apoio, Inclusive Com a Situa«ı«úo Familiar
+Z64;Problemas Relacionados Com Algumas Outras Circunst«Ωncias Psicossociais
+Z65;Problemas Relacionados Com Outras Circunst«Ωncias Psicossociais
+Z70;Aconselhamento Relativo «ˇs Atitudes, Comportamento e Orienta«ı«úo em Mat«∏ria de Sexualidade
+Z71;Pessoas em Contato Com os Servi«ıos de Sa«ßde Para Outros Aconselhamentos e Conselho M«∏dico, N«úo Classificados em Outra Parte
+Z72;Problemas Relacionados Com o Estilo de Vida
+Z73;Problemas Relacionados Com a Organiza«ı«úo de Seu Modo de Vida
+Z74;Problemas Relacionados Com a Depend«¶ncia de Uma Pessoa Que Oferece Cuidados de Sa«ßde
+Z75;Problemas Relacionados Com as Facilidades M«∏dicas e Outros Cuidados de Sa«ßde
+Z76;Pessoas em Contato Com os Servi«ıos de Sa«ßde em Outras Circunst«Ωncias
+Z80;Hist«¸ria Familiar de Neoplasia Maligna
+Z81;Hist«¸ria Familiar de Transtornos Mentais e Comportamentais
+Z82;Hist«¸ria Familiar de Algumas Incapacidades e Doen«ıas Cr«Ônicas Que Conduzem a Incapacita«ı«úo
+Z83;Hist«¸ria Familiar de Outros Transtornos Espec«ficos
+Z84;Hist«¸ria Familiar de Outras Afec«ı«Êes
+Z85;Hist«¸ria Pessoal de Neoplasia Maligna
+Z86;Hist«¸ria Pessoal de Algumas Outras Doen«ıas
+Z87;Hist«¸ria Pessoal de Outras Doen«ıas e Afec«ı«Êes
+Z88;Hist«¸ria Pessoal de Alergia a Drogas, Medicamentos e a Subst«Ωncias Biol«¸gicas
+Z89;Aus«¶ncia Adquirida de Membros
+Z90;Aus«¶ncia Adquirida de «?rg«úos N«úo Classificados em Outra Parte
+Z91;Hist«¸ria Pessoal de Fatores de Risco, N«úo Classificados em Outra Parte
+Z92;Hist«¸ria Pessoal de Tratamento M«∏dico
+Z93;Orif«cios Artificiais
+Z94;«?rg«úos e Tecidos Transplantados
+Z95;Presen«ıa de Implantes e Enxertos Card«acos e Vasculares
+Z96;Presen«ıa de Outros Implantes Funcionais
+Z97;Presen«ıa de Outros Dispositivos Prot«∏ticos
+Z98;Outros Estados P«¸s-cir«ßrgicos
+Z99;Depend«¶ncia de M«≠quinas e Dispositivos Capacitantes, N«úo Classificados em Outra Parte

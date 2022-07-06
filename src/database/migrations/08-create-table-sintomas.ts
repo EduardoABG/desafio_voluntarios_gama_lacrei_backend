@@ -7,10 +7,10 @@ export default {
         primaryKey: true,
         autoIncrement: true,
       },
-      codigo: {
+      code: {
         type: DataTypes.STRING(10),
       },
-      sintoma: {
+      name: {
         type: DataTypes.STRING(255),
       },
       createdAt: {

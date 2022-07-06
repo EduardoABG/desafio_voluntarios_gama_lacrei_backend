@@ -1,9 +1,9 @@
 import { DataTypes } from "sequelize";
 import Conection from "../database/Conection";
 
-export class Sintomas {
+export class Convenio {
   instance: any;
-  modelName: string = "Sintomas";
+  modelName: string = "Convenio";
 
   constructor(conexao: Conection) {
     const con = conexao.getInstance();
@@ -16,10 +16,7 @@ export class Sintomas {
           primaryKey: true,
           autoIncrement: true,
         },
-        code: {
-          type: DataTypes.STRING,
-        },
-        name: {
+        nome: {
           type: DataTypes.STRING,
         },
         createdAt: {

@@ -1,9 +1,9 @@
 import { DataTypes } from "sequelize";
 import Conection from "../database/Conection";
 
-export class Sintomas {
+export class ConsultorioHorario {
   instance: any;
-  modelName: string = "Sintomas";
+  modelName: string = "Consultorio-Horario";
 
   constructor(conexao: Conection) {
     const con = conexao.getInstance();
@@ -16,11 +16,23 @@ export class Sintomas {
           primaryKey: true,
           autoIncrement: true,
         },
-        code: {
-          type: DataTypes.STRING,
+        consultorio_id: {
+          type: DataTypes.INTEGER,
+          references: {
+            model: {
+              tableName: "consultorio",
+            },
+            key: "id",
+          },
         },
-        name: {
-          type: DataTypes.STRING,
+        horario_id: {
+          type: DataTypes.INTEGER,
+          references: {
+            model: {
+              tableName: "horario",
+            },
+            key: "id",
+          },
         },
         createdAt: {
           type: DataTypes.DATE,

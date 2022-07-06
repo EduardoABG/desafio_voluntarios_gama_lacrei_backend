@@ -88,6 +88,12 @@ export default {
       formacao: {
         type: DataTypes.STRING(255),
       },
+      createdAt: {
+        type: DataTypes.DATE(),
+      },
+      updatedAt: {
+        type: DataTypes.DATE(),
+      },
     });
   },
   down: (queryInterface: QueryInterface) => {

@@ -3,7 +3,7 @@ export default {
   up: (queryInterface: QueryInterface) => {
     return queryInterface.createTable("consultorio-convenio", {
         id: {
-            type: DataTypes.INTEGER(),
+            type: DataTypes.INTEGER,
             primaryKey: true,
             autoIncrement: true,
         },

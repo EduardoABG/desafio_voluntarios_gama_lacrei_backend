@@ -4,7 +4,7 @@ type BodyPreCadastro = {
   estado_atuacao: string;
   nome_completo: string;
   email: string;
-  prefixo: string;
+  prefixo_profissao: string;
   num_registro: number;
   senha: string;
   termos: boolean;

@@ -11,7 +11,7 @@ export class Profissao {
     this.instance = con.define(
       this.modelName,
       {
-        prefixo: {
+        prefixo_profissao: {
           type: DataTypes.STRING,
           primaryKey: true,
         },

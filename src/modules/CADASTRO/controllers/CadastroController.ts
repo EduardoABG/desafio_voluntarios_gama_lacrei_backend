@@ -32,7 +32,7 @@ export default class CadastroController {
         );
 
         if (cadastroprofissional) {
-          return res.status(201).json(cadastroprofissional);
+          return res.status(204).json(cadastroprofissional);
         }
       } catch (error) {
         console.log(error);

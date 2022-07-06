@@ -6,6 +6,6 @@ import {
 
 const routes = Router();
 
-routes.post("/profissional/:id", cadastroControllerProfissional.update());
-routes.post("/servicos", cadastroControllerServico.create());
+routes.post("/:id", cadastroControllerProfissional.update());
+routes.post("/", cadastroControllerServico.create());
 export default routes;

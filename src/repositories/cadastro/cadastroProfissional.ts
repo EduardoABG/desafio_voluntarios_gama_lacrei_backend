@@ -18,7 +18,7 @@ export default class CadastroRepositoryProfissional implements IRepository {
     },
     id: any
   ) {
-    return this.CadastroModel.update(payload, id, { where: { id } });
+    return this.CadastroModel.update(payload, { where: { id: id } });
   }
   async create(payload: any) {}
   async findAll(payload?: any) {}

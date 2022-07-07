@@ -1,5 +1,6 @@
 import { Request, Response } from "express";
-import CadastroUseCase from "../useCases/CadastroUseCase";
+import CadastroUseCase from "../useCases/CadastroUseCase"
+
 type BodyCadastroProfissional = {
   foto_perfil: string;
   descricao_foto: string;

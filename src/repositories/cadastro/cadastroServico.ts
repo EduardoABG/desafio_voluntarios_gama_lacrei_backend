@@ -20,4 +20,5 @@ export default class CadastroRepositoryServico implements IRepository {
   async findAll(payload?: any) {}
   async findById(id: any, payload?: any) {}
   async delete(id: any) {}
+  async find(payload?: any, id?: any) {}
 }

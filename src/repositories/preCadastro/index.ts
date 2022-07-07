@@ -18,6 +18,7 @@ export default class PreCadastroRepository implements IRepository {
   }) {
     return this.preCadastroModel.create(payload);
   }
+  async find(payload?: any, id?: any) {}
   async update(payload: any, id: any) {}
   async findAll(payload?: any) {}
   async findById(id: any, payload?: any) {}

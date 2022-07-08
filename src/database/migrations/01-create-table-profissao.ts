@@ -20,4 +20,4 @@ export default {
   down: (queryInterface: QueryInterface) => {
     return queryInterface.dropTable("profissao");
   },
-};
+}

@@ -10,7 +10,7 @@ A ideia é desenvolver uma API de cadastro de pessoas profissionais da área da 
 
 ### 🔧 Instalação
 
-Para a **Implantação** dessa aplicação, é necessário seguir o seguinte passo-apasso:
+Para a **Implantação** dessa aplicação, é necessário seguir o seguinte passo-a-passo:
 
 #### 1 - clonar o repositório
 
@@ -28,7 +28,7 @@ npm install
 ```
 tsc
 ```
-#### 4 - Criar um banco de dados local de acordo com as necessidades do projeto ([DER](https://drive.google.com/file/d/17mz9r794bSmmYuLDYlp6ps_Tq2QnZ0xJ/view?usp=sharing)):
+#### 4 - Criar um banco de dados local de acordo com a arquitetura do projeto ([Diagrama Entidade-Relacionamento](https://drive.google.com/file/d/17mz9r794bSmmYuLDYlp6ps_Tq2QnZ0xJ/view?usp=sharing)):
 
 * Criar um arquivo .env na raiz do projeto de acordo com .env.exemplo;
 
@@ -56,12 +56,23 @@ npm run dev
 
 ### 📋 Funcionalidades
 
+A aplicação foi desenvolvida com base nos padrões de arquitetura de projeto com o intuito de tornar a aplicação mais simples e flexível para possíveis implementações futuras.
+---
+
+<img src="docs/assets/readme/arquitetura.png">
+
+#### As pastas estão organizadas da seguinte forma:
+* database: armazena os arquivos de configuração e inicialização do Banco de dados.
+* infra: armazena estruturas de configuração da aplicação e middlewares.
+* models: armazena a modelagem dos dados e define como eles se relacionam.
+* modules: armazena controllers, routes e usecases das requisições.
+* repositories: armazena as conexões entre banco de dados e controllers.
 
 ---
 
 ### 🔧 Ferramentas Utilizadas
 
-Foram utilizados as seguintes ferramentas:
+#### Foram utilizados as seguintes ferramentas:
 
 * [Typescript](https://www.typescriptlang.org/) - Linguagem de programação
 * [Node.JS](https://nodejs.org/en/) - Framework para executar JS fora do navegador
@@ -76,16 +87,11 @@ Foram utilizados as seguintes ferramentas:
 * [winston](https://www.npmjs.com/package/winston) - Biblioteca para cração de loggs
 * [xlsx](https://www.npmjs.com/package/xlsx) - Biblioteca JS para trabalhar com planilhas
 
-
 ---
 
-## ✒️ Autores
+### ✒️ Autores
 
 * [Daniel Campelo](https://github.com/DanielCampelo10)
 * [Eduardo Broetto](https://github.com/EduardoABG)
 
 ---
-
-## 🎁 Agradecimentos
-
-

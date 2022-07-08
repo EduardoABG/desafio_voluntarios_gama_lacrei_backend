@@ -6,6 +6,6 @@ import { Router } from "express";
 const routes = Router();
 routes.use("/precadastro", routesPreCadastro);
 routes.use("/cadastro", routesCadastro);
-routes.use("/auth", routesAtuh);
+routes.use(routesAtuh);
 
 export default routes;

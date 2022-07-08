@@ -19,4 +19,9 @@ export default class AuthUseCase {
     const novoLogin = this.repository.find(loginData);
     return novoLogin;
   }
+  gerarTokenDeSenha(payload: PayloadLogin) {
+    const tokenData = { email: payload.email, senha: payload.senha };
+    const novoToken = this.repository.find(tokenData);
+    return novoToken;
+  }
 }

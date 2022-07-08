@@ -3,7 +3,7 @@ import {
   cadastroControllerProfissional,
   cadastroControllerServico,
 } from "../controllers";
-import auth from "../../../infra/middlewares/auth";
+//import auth from "../../../infra/middlewares/auth";
 import upload from "../../../infra/middlewares/upload";
 
 const routes = Router();

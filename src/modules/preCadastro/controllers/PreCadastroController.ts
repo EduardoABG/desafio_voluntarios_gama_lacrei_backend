@@ -1,5 +1,6 @@
 import { Request, Response } from "express";
 import PreCadastroUseCase from "../useCases/PreCadastroUseCase";
+import jwt from "jsonwebtoken";
 type BodyPreCadastro = {
   estado_atuacao: string;
   nome_completo: string;

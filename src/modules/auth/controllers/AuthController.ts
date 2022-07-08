@@ -4,7 +4,7 @@ import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import logger from "../../../infra/logger";
 import CryptoJS from "crypto-js";
-import key from "../../../infra/config/secret";
+
 type BodyLogin = {
   email: string;
   senha: string;

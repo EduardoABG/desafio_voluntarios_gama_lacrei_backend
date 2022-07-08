@@ -15,7 +15,7 @@ export default class PosCadastroRepository implements IRepository {
       sexualidade: string;
       pcd: string;
       publico_alvo: string;
-      rqe: string;
+      rqe?: string;
       doencas: string;
       formacao: string;
     },

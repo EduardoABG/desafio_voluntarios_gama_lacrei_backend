@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import AuthUseCase from "../useCase/authUseCase";
+import AuthUseCase from "../useCase/AuthUseCase";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import logger from "../../../infra/logger";

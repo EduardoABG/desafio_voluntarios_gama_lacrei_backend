@@ -1,5 +1,5 @@
 import { authRepository } from "../../../repositories";
-import AuthUseCase from "./authUseCase";
+import AuthUseCase from "./AuthUseCase";
 
 const authUseCase = new AuthUseCase(authRepository);
 

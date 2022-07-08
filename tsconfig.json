@@ -2,7 +2,11 @@
   "ts-node": {
     "files": true
   },
-  "files": ["src/index.ts", "src/@types/custom.d.ts"],
+  "files": ["src/index.ts", "src/@types/custom.d.ts", "src/database/carga_inicial.ts", "src/database/migrations/01-create-table-profissao.ts", 
+  "src/database/migrations/02-create-table-profissional.ts", "src/database/migrations/03-create-table-especialidade.ts", "src/database/migrations/04-create-table-servicos.ts", 
+  "src/database/migrations/05-create-table-consultorio.ts", "src/database/migrations/06-create-table-horario.ts", "src/database/migrations/07-create-table-consultorio-horario.ts", 
+  "src/database/migrations/08-create-table-sintomas.ts", "src/database/migrations/09-create-table-convenio.ts", "src/database/migrations/10-create-table-consultorio-convenio.ts",
+  "src/infra/config/db.ts"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
@@ -30,9 +34,9 @@
 
     /* Modules */
     "module": "commonjs" /* Specify what module code is generated. */,
-    // "rootDir": "./",                                  /* Specify the root folder within your source files. */
+    // "rootDir": "src",                                  /* Specify the root folder within your source files. */
     // "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
-    // "baseUrl": "./",                                  /* Specify the base directory to resolve non-relative module names. */
+    // "baseUrl": "/src",                                  /* Specify the base directory to resolve non-relative module names. */
     // "paths": {},                                      /* Specify a set of entries that re-map imports to additional lookup locations. */
     // "rootDirs": [],                                   /* Allow multiple folders to be treated as one when resolving modules. */
     "typeRoots": [

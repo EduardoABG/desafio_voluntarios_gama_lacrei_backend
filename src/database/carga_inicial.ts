@@ -6,10 +6,10 @@ import { especialidade } from "../models";
 import { convenio } from "../models";
 import { sintomas } from "../models";
 
-const listaProfissao = parseFile(path.resolve("profissao.csv"));
-const listaEspecialidade = parseFile(path.resolve("especialidades.csv"));
-const listaConvenio = parseFile(path.resolve("convenios.csv"));
-const listaSintoma = parseFile(path.resolve("sintomas.csv"));
+const listaProfissao = parseFile(path.resolve("docs, data, profissao.csv"));
+const listaEspecialidade = parseFile(path.resolve("docs, data, especialidades.csv"));
+const listaConvenio = parseFile(path.resolve("docs, data, convenios.csv"));
+const listaSintoma = parseFile(path.resolve("docs, data, sintomas.csv"));
 
 async function cargaInicial() {
   await profissao.instance.bulkCreate(listaProfissao);
@@ -19,3 +19,4 @@ async function cargaInicial() {
 }
 
 cargaInicial();
+

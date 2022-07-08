@@ -57,8 +57,17 @@ npm run dev
 ### 📋 Funcionalidades
 
 A aplicação foi desenvolvida com base nos padrões de arquitetura de projeto com o intuito de tornar a aplicação mais simples e flexível para possíveis implementações futuras.
+---
 
-<img src="assets/readme/arquitetura.png">
+<img src="docs/assets/readme/arquitetura.png">
+
+#### As pastas estão organizadas da seguinte forma:
+* database: armazena os arquivos de configuração e inicialização do Banco de dados.
+* infra: armazena estruturas de configuração da aplicação e middlewares.
+* models: armazena a modelagem dos dados e define como eles se relacionam.
+* modules: armazena controllers, routes e usecases das requisições.
+* repositories: armazena as conexões entre banco de dados e controllers.
+
 ---
 
 ### 🔧 Ferramentas Utilizadas
@@ -78,10 +87,9 @@ A aplicação foi desenvolvida com base nos padrões de arquitetura de projeto c
 * [winston](https://www.npmjs.com/package/winston) - Biblioteca para cração de loggs
 * [xlsx](https://www.npmjs.com/package/xlsx) - Biblioteca JS para trabalhar com planilhas
 
-
 ---
 
-## ✒️ Autores
+### ✒️ Autores
 
 * [Daniel Campelo](https://github.com/DanielCampelo10)
 * [Eduardo Broetto](https://github.com/EduardoABG)
